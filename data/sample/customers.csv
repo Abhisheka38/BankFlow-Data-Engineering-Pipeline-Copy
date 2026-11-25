@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,date_of_birth,gender,city,occupation,registration_date,home_branch_id,customer_status
+CUST00001,Saman,Jayasinghe,2005-05-03,Male,Trincomalee,Doctor,2024-09-14,BR0008,Inactive
+CUST00002,Sanduni,Wickramasinghe,1960-07-31,Male,Badulla,Software Developer,2023-02-12,BR0005,Active
+CUST00003,Nuwan,Silva,1968-04-27,Female,Kandy,Software Developer,2023-11-09,BR0020,Inactive
+CUST00004,Amal,Bandara,1971-03-14,Female,Kandy,Nurse,2023-04-15,BR0020,Inactive
+CUST00005,Sanduni,Jayasinghe,1966-03-29,Male,Jaffna,Business Owner,2020-11-22,BR0008,Active
+CUST00006,Tharushi,Wickramasinghe,2000-09-04,Female,Galle,Software Developer,2023-12-26,BR0007,Inactive
+CUST00007,Chathura,Silva,1975-05-09,Male,Galle,Manager,2024-04-03,BR0009,Active
+CUST00008,Ishara,Gunawardena,1965-01-06,Male,Colombo,Software Developer,2024-07-01,BR0009,Active
+CUST00009,Saman,Rajapaksha,1988-03-25,Male,Ratnapura,Student,2025-02-22,BR0005,Inactive
+CUST00010,Kamal,Jayasinghe,1983-07-28,Female,Matara,Student,2024-01-22,BR0008,Active
+CUST00011,Kavindi,Bandara,1968-02-26,Male,Kandy,Accountant,2021-10-17,BR0014,Active
+CUST00012,Tharushi,De Silva,2001-12-28,Female,Trincomalee,Teacher,2021-04-14,BR0018,Inactive
+CUST00013,Ishara,Gunawardena,1970-01-03,Female,Badulla,Accountant,2025-02-01,BR0001,Inactive
+CUST00014,Kavindi,Fernando,2005-07-18,Male,Kurunegala,Nurse,2022-03-25,BR0005,Inactive
+CUST00015,Kamal,Senanayake,1960-01-19,Female,Ratnapura,Teacher,2021-04-03,BR0012,Inactive
+CUST00016,Saman,Perera,1981-08-10,Male,Kandy,Manager,2020-10-10,BR0018,Active
+CUST00017,Kamal,Bandara,1974-10-24,Female,Trincomalee,Self Employed,2024-09-29,BR0007,Active
+CUST00018,Chathura,Wickramasinghe,1995-10-18,Female,Ratnapura,Nurse,2025-01-23,BR0004,Active
+CUST00019,Saman,Silva,1990-05-01,Male,Matara,Nurse,2022-07-31,BR0019,Active
+CUST00020,Amal,Silva,1965-04-13,Male,Kandy,Teacher,2023-09-15,BR0003,Active
+CUST00021,Kasun,Bandara,1979-03-22,Male,Matara,Self Employed,2025-04-20,BR0008,Inactive
+CUST00022,Tharushi,Jayasinghe,1968-06-17,Male,Badulla,Software Developer,2024-09-30,BR0014,Inactive
+CUST00023,Chathura,Perera,1968-10-29,Male,Badulla,Software Developer,2021-03-23,BR0008,Active
+CUST00024,Saman,Senanayake,2000-03-31,Male,Badulla,Accountant,2023-02-14,BR0015,Active
+CUST00025,Nimal,Bandara,1968-10-13,Male,Trincomalee,Teacher,2021-01-17,BR0008,Active
+CUST00026,Tharushi,Bandara,2003-03-09,Male,Badulla,Teacher,2021-11-05,BR0013,Active
+CUST00027,Tharushi,Wickramasinghe,2000-10-26,Female,Badulla,Nurse,2025-06-16,BR0005,Active
+CUST00028,Kasun,Jayasinghe,1965-03-31,Male,Anuradhapura,Teacher,2020-07-24,BR0019,Inactive
+CUST00029,Kavindi,Senanayake,1974-02-14,Male,Trincomalee,Engineer,2022-01-31,BR0003,Active
+CUST00030,Ishara,Jayasinghe,1996-03-22,Male,Matara,Doctor,2020-06-11,BR0020,Active
+CUST00031,Tharushi,Rajapaksha,1988-05-19,Female,Jaffna,Software Developer,2022-09-04,BR0009,Inactive
+CUST00032,Kamal,Wickramasinghe,2001-01-07,Female,Kandy,Teacher,2025-02-20,BR0020,Active
+CUST00033,Nimal,Senanayake,1979-02-14,Female,Galle,Software Developer,2020-10-08,BR0008,Inactive
+CUST00034,Kasun,Fernando,1999-04-24,Female,Matara,Nurse,2020-02-02,BR0018,Inactive
+CUST00035,Ishara,Silva,1972-01-18,Female,Kandy,Engineer,2021-09-28,BR0009,Inactive
+CUST00036,Sanduni,Jayasinghe,1990-10-05,Male,Kurunegala,Nurse,2025-06-24,BR0009,Active
+CUST00037,Nimal,De Silva,1984-10-27,Male,Colombo,Software Developer,2021-06-19,BR0009,Active
+CUST00038,Chathura,Bandara,1998-05-15,Male,Kandy,Engineer,2021-09-02,BR0018,Active
+CUST00039,Nuwan,Rajapaksha,1973-04-14,Female,Galle,Teacher,2023-06-16,BR0012,Active
+CUST00040,Nuwan,Jayasinghe,1982-05-21,Male,Anuradhapura,Nurse,2024-07-22,BR0020,Active
+CUST00041,Saman,Fernando,1975-11-19,Female,Colombo,Accountant,2023-09-22,BR0014,Active
+CUST00042,Kasun,Fernando,1969-09-12,Female,Colombo,Manager,2022-06-30,BR0007,Inactive
+CUST00043,Nuwan,Wickramasinghe,1980-06-01,Male,Colombo,Doctor,2024-06-20,BR0011,Inactive
+CUST00044,Nimal,Wickramasinghe,1991-07-03,Female,Trincomalee,Software Developer,2020-04-23,BR0004,Inactive
+CUST00045,Kamal,Rajapaksha,1983-10-25,Male,Kandy,Self Employed,2024-11-14,BR0012,Inactive
+CUST00046,Tharushi,Rajapaksha,2005-11-18,Male,Badulla,Self Employed,2022-02-17,BR0009,Active
+CUST00047,Chathura,De Silva,1960-02-25,Male,Anuradhapura,Student,2020-10-13,BR0011,Inactive
+CUST00048,Ishara,Silva,1986-12-10,Female,Badulla,Software Developer,2024-07-06,BR0010,Active
+CUST00049,Saman,De Silva,1994-01-05,Male,Matara,Self Employed,2023-05-17,BR0013,Active
+CUST00050,Kasun,Wickramasinghe,1978-11-09,Female,Matara,Self Employed,2023-08-12,BR0015,Inactive
+CUST00051,Dinushi,Jayasinghe,2005-11-10,Female,Galle,Engineer,2023-03-08,BR0017,Inactive
+CUST00052,Nimal,Jayasinghe,1987-11-06,Male,Jaffna,Accountant,2020-04-10,BR0002,Active
+CUST00053,Dinushi,Rajapaksha,1966-07-14,Female,Badulla,Self Employed,2022-03-07,BR0013,Inactive
+CUST00054,Tharushi,Jayasinghe,1973-03-28,Male,Kandy,Student,2022-06-15,BR0006,Inactive
+CUST00055,Amal,Senanayake,1982-05-10,Male,Ratnapura,Accountant,2025-03-18,BR0017,Inactive
+CUST00056,Dinushi,Rajapaksha,2005-04-14,Female,Trincomalee,Manager,2021-10-13,BR0016,Inactive
+CUST00057,Kasun,Jayasinghe,1984-11-16,Female,Jaffna,Business Owner,2024-12-06,BR0003,Inactive
+CUST00058,Saman,Wickramasinghe,1990-02-17,Female,Trincomalee,Engineer,2021-07-20,BR0005,Active
+CUST00059,Tharushi,Fernando,1979-03-12,Male,Badulla,Student,2023-09-17,BR0018,Inactive
+CUST00060,Tharushi,Perera,1978-07-22,Female,Badulla,Self Employed,2020-03-21,BR0019,Inactive
+CUST00061,Dinushi,Perera,1991-07-23,Female,Badulla,Student,2022-06-22,BR0016,Active
+CUST00062,Kasun,De Silva,2003-07-27,Male,Badulla,Software Developer,2024-07-14,BR0006,Inactive
+CUST00063,Kamal,Rajapaksha,1962-06-02,Female,Matara,Self Employed,2020-04-21,BR0003,Inactive
+CUST00064,Kamal,Bandara,1976-04-20,Male,Kurunegala,Student,2023-09-02,BR0007,Inactive
+CUST00065,Nuwan,Gunawardena,1994-01-05,Female,Badulla,Business Owner,2020-12-01,BR0016,Active
+CUST00066,Chathura,Senanayake,1964-09-02,Female,Jaffna,Engineer,2020-06-13,BR0001,Active
+CUST00067,Saman,Perera,1973-09-02,Male,Galle,Manager,2021-04-13,BR0019,Active
+CUST00068,Dinushi,Wickramasinghe,1993-02-03,Male,Matara,Self Employed,2021-04-14,BR0006,Inactive
+CUST00069,Nimal,Rajapaksha,1962-04-21,Female,Matara,Student,2024-06-12,BR0007,Active
+CUST00070,Sanduni,Jayasinghe,1969-02-21,Female,Matara,Engineer,2020-06-17,BR0012,Inactive
+CUST00071,Ishara,Gunawardena,1966-03-09,Female,Colombo,Student,2025-06-30,BR0004,Inactive
+CUST00072,Nuwan,Bandara,1973-09-22,Female,Galle,Nurse,2023-01-11,BR0020,Inactive
+CUST00073,Dinushi,De Silva,1984-01-29,Female,Jaffna,Engineer,2023-02-16,BR0015,Active
+CUST00074,Dinushi,Rajapaksha,1993-12-31,Female,Colombo,Manager,2023-08-24,BR0006,Inactive
+CUST00075,Saman,Gunawardena,1983-03-06,Female,Kurunegala,Self Employed,2023-02-05,BR0018,Active
+CUST00076,Kavindi,Jayasinghe,1967-09-06,Male,Badulla,Manager,2022-09-11,BR0016,Inactive
+CUST00077,Dinushi,Perera,1968-05-07,Female,Jaffna,Student,2022-09-23,BR0010,Inactive
+CUST00078,Dinushi,Senanayake,1990-11-03,Female,Trincomalee,Software Developer,2023-12-12,BR0015,Inactive
+CUST00079,Kasun,Wickramasinghe,1980-09-06,Male,Jaffna,Software Developer,2021-05-04,BR0018,Active
+CUST00080,Saman,Jayasinghe,2003-06-10,Female,Matara,Nurse,2023-03-05,BR0004,Active
+CUST00081,Kasun,Jayasinghe,1992-05-17,Male,Kurunegala,Teacher,2025-12-27,BR0005,Inactive
+CUST00082,Amal,Perera,1986-03-17,Male,Ratnapura,Engineer,2020-02-20,BR0019,Inactive
+CUST00083,Dinushi,Bandara,1999-07-08,Female,Galle,Teacher,2022-10-31,BR0016,Active
+CUST00084,Nimal,De Silva,2004-02-12,Male,Matara,Teacher,2021-09-13,BR0005,Inactive
+CUST00085,Nimal,Jayasinghe,1970-08-17,Female,Matara,Self Employed,2022-07-13,BR0017,Inactive
+CUST00086,Dinushi,Bandara,1986-09-04,Female,Kurunegala,Self Employed,2020-09-03,BR0020,Active
+CUST00087,Saman,Jayasinghe,1983-09-28,Male,Galle,Doctor,2021-12-12,BR0018,Active
+CUST00088,Kamal,Perera,1996-08-25,Female,Matara,Manager,2023-04-07,BR0002,Active
+CUST00089,Kasun,Wickramasinghe,2000-09-24,Male,Jaffna,Business Owner,2022-03-21,BR0014,Active
+CUST00090,Kavindi,Jayasinghe,1973-05-14,Female,Galle,Engineer,2020-09-01,BR0006,Inactive
+CUST00091,Sanduni,Rajapaksha,1985-11-22,Female,Kandy,Manager,2023-05-30,BR0013,Inactive
+CUST00092,Kavindi,Senanayake,2004-04-19,Female,Kandy,Self Employed,2020-06-12,BR0014,Inactive
+CUST00093,Sanduni,Wickramasinghe,1962-04-27,Male,Jaffna,Self Employed,2020-03-25,BR0009,Active
+CUST00094,Kamal,Bandara,1999-09-03,Female,Galle,Self Employed,2024-11-20,BR0016,Active
+CUST00095,Dinushi,Gunawardena,1996-08-19,Female,Anuradhapura,Engineer,2021-10-20,BR0011,Inactive
+CUST00096,Chathura,Bandara,1985-11-09,Female,Trincomalee,Teacher,2025-02-05,BR0003,Inactive
+CUST00097,Kasun,Gunawardena,1970-05-26,Female,Trincomalee,Teacher,2025-03-07,BR0014,Active
+CUST00098,Saman,Senanayake,1992-06-15,Female,Ratnapura,Teacher,2022-04-13,BR0009,Active
+CUST00099,Kasun,Bandara,2003-06-27,Male,Colombo,Self Employed,2022-09-07,BR0006,Inactive
+CUST00100,Kavindi,Perera,1996-08-08,Male,Jaffna,Engineer,2025-03-05,BR0004,Active
+CUST00101,Dinushi,Wickramasinghe,2005-08-26,Female,Badulla,Manager,2025-04-18,BR0008,Inactive
+CUST00102,Kavindi,Fernando,1994-05-31,Male,Matara,Nurse,2021-07-13,BR0003,Inactive
+CUST00103,Tharushi,Gunawardena,2005-07-20,Female,Colombo,Business Owner,2023-05-07,BR0019,Inactive
+CUST00104,Kamal,Bandara,2003-06-14,Female,Anuradhapura,Nurse,2024-03-25,BR0015,Inactive
+CUST00105,Saman,Jayasinghe,1994-05-11,Male,Badulla,Teacher,2023-07-27,BR0016,Inactive
+CUST00106,Tharushi,Fernando,2004-06-08,Male,Galle,Nurse,2023-09-21,BR0004,Inactive
+CUST00107,Nimal,Senanayake,2000-12-28,Male,Galle,Student,2021-09-24,BR0003,Inactive
+CUST00108,Kasun,Gunawardena,1995-08-29,Male,Anuradhapura,Nurse,2024-04-05,BR0011,Inactive
+CUST00109,Kavindi,Perera,1966-02-20,Male,Kurunegala,Doctor,2021-01-05,BR0014,Active
+CUST00110,Ishara,Silva,1999-10-21,Male,Kurunegala,Teacher,2020-07-07,BR0011,Active
+CUST00111,Kasun,Gunawardena,1993-08-17,Female,Galle,Doctor,2025-12-15,BR0014,Active
+CUST00112,Kamal,Fernando,1967-01-31,Female,Matara,Doctor,2025-07-31,BR0019,Active
+CUST00113,Saman,Bandara,1982-10-14,Female,Kurunegala,Teacher,2025-03-20,BR0010,Active
+CUST00114,Nimal,Bandara,1991-01-01,Female,Badulla,Business Owner,2025-02-14,BR0010,Active
+CUST00115,Tharushi,Bandara,1969-07-26,Male,Badulla,Self Employed,2024-01-10,BR0019,Inactive
+CUST00116,Chathura,Wickramasinghe,1961-12-19,Female,Kurunegala,Teacher,2020-07-19,BR0020,Inactive
+CUST00117,Kasun,Jayasinghe,1991-08-10,Male,Jaffna,Self Employed,2022-10-23,BR0005,Active
+CUST00118,Ishara,Perera,1987-09-19,Female,Colombo,Self Employed,2024-02-03,BR0005,Active
+CUST00119,Kasun,Gunawardena,1997-04-11,Male,Jaffna,Accountant,2024-02-07,BR0017,Inactive
+CUST00120,Kamal,Wickramasinghe,2003-03-25,Female,Anuradhapura,Engineer,2025-04-02,BR0003,Active
+CUST00121,Saman,De Silva,1992-10-24,Male,Badulla,Teacher,2022-12-19,BR0018,Active
+CUST00122,Dinushi,Gunawardena,1983-07-09,Female,Anuradhapura,Engineer,2022-08-15,BR0016,Active
+CUST00123,Sanduni,Senanayake,1989-06-05,Male,Kandy,Manager,2023-05-22,BR0014,Active
+CUST00124,Kamal,Perera,1963-05-04,Female,Ratnapura,Engineer,2021-02-02,BR0008,Active
+CUST00125,Tharushi,Bandara,1993-04-14,Female,Matara,Accountant,2024-08-26,BR0004,Inactive
+CUST00126,Sanduni,De Silva,1985-02-04,Male,Anuradhapura,Doctor,2024-12-21,BR0015,Active
+CUST00127,Nuwan,Silva,1992-12-14,Female,Colombo,Student,2023-02-04,BR0007,Active
+CUST00128,Dinushi,Silva,1979-01-11,Male,Colombo,Software Developer,2022-09-24,BR0005,Active
+CUST00129,Nimal,Senanayake,1978-08-02,Male,Jaffna,Software Developer,2021-08-27,BR0020,Active
+CUST00130,Kasun,Fernando,1971-08-30,Female,Galle,Engineer,2020-04-15,BR0005,Active
+CUST00131,Nuwan,Jayasinghe,1989-01-17,Male,Galle,Business Owner,2020-08-02,BR0005,Inactive
+CUST00132,Kavindi,Silva,1965-09-13,Female,Ratnapura,Software Developer,2025-10-03,BR0019,Active
+CUST00133,Dinushi,Senanayake,1979-11-16,Male,Trincomalee,Business Owner,2025-02-19,BR0001,Active
+CUST00134,Dinushi,De Silva,1998-03-30,Male,Ratnapura,Manager,2020-10-28,BR0003,Inactive
+CUST00135,Sanduni,Fernando,1965-11-22,Male,Kurunegala,Self Employed,2023-08-24,BR0013,Inactive
+CUST00136,Dinushi,Senanayake,1998-08-05,Male,Kandy,Nurse,2022-05-30,BR0014,Inactive
+CUST00137,Saman,De Silva,1990-05-29,Female,Badulla,Student,2021-01-24,BR0011,Inactive
+CUST00138,Nuwan,Wickramasinghe,1993-07-31,Male,Ratnapura,Engineer,2021-01-08,BR0003,Active
+CUST00139,Tharushi,Silva,1993-06-06,Male,Trincomalee,Teacher,2023-09-12,BR0004,Inactive
+CUST00140,Nuwan,De Silva,1964-08-12,Female,Matara,Business Owner,2023-12-11,BR0004,Active
+CUST00141,Kamal,Bandara,1980-02-13,Male,Anuradhapura,Nurse,2024-02-14,BR0004,Inactive
+CUST00142,Sanduni,Jayasinghe,1998-07-01,Male,Matara,Business Owner,2020-04-28,BR0006,Inactive
+CUST00143,Chathura,Wickramasinghe,1990-06-27,Female,Colombo,Accountant,2021-08-09,BR0019,Inactive
+CUST00144,Nimal,Fernando,1962-10-01,Male,Trincomalee,Doctor,2024-03-20,BR0014,Inactive
+CUST00145,Nuwan,Fernando,1993-03-13,Female,Anuradhapura,Self Employed,2020-12-13,BR0002,Active
+CUST00146,Kamal,Rajapaksha,1964-06-18,Male,Kurunegala,Manager,2024-10-02,BR0016,Inactive
+CUST00147,Tharushi,Wickramasinghe,1979-05-04,Male,Anuradhapura,Student,2021-03-30,BR0010,Inactive
+CUST00148,Kavindi,Wickramasinghe,1964-01-28,Male,Badulla,Self Employed,2020-08-12,BR0001,Active
+CUST00149,Kasun,Jayasinghe,1972-04-23,Female,Kurunegala,Software Developer,2021-05-06,BR0001,Inactive
+CUST00150,Chathura,De Silva,1975-10-06,Male,Badulla,Nurse,2022-07-31,BR0017,Inactive
+CUST00151,Nimal,De Silva,1963-10-18,Female,Colombo,Manager,2020-11-14,BR0011,Inactive
+CUST00152,Sanduni,De Silva,1997-06-21,Female,Kandy,Student,2020-03-26,BR0011,Active
+CUST00153,Sanduni,Bandara,1992-06-18,Male,Badulla,Engineer,2022-09-23,BR0014,Inactive
+CUST00154,Kavindi,Silva,1995-07-04,Female,Anuradhapura,Doctor,2023-09-26,BR0006,Active
+CUST00155,Kavindi,Silva,2005-10-01,Male,Anuradhapura,Software Developer,2021-08-27,BR0008,Active
+CUST00156,Kamal,Wickramasinghe,1977-09-12,Male,Matara,Accountant,2020-11-04,BR0006,Inactive
+CUST00157,Dinushi,Rajapaksha,2000-04-09,Female,Anuradhapura,Accountant,2024-12-06,BR0003,Inactive
+CUST00158,Dinushi,Wickramasinghe,1984-08-22,Male,Anuradhapura,Nurse,2020-10-30,BR0010,Inactive
+CUST00159,Dinushi,Perera,1965-02-07,Female,Kurunegala,Engineer,2021-01-04,BR0020,Inactive
+CUST00160,Dinushi,Rajapaksha,1963-09-06,Female,Matara,Doctor,2023-08-09,BR0020,Inactive
+CUST00161,Kavindi,Fernando,1965-07-20,Female,Kandy,Software Developer,2020-12-11,BR0017,Active
+CUST00162,Amal,Jayasinghe,1999-04-10,Female,Trincomalee,Nurse,2021-10-12,BR0012,Inactive
+CUST00163,Kasun,De Silva,1996-09-02,Female,Matara,Teacher,2023-10-02,BR0003,Inactive
+CUST00164,Nimal,Senanayake,1994-09-05,Female,Kurunegala,Self Employed,2021-09-07,BR0011,Active
+CUST00165,Sanduni,Fernando,1991-05-20,Female,Badulla,Accountant,2020-12-13,BR0010,Inactive
+CUST00166,Ishara,Gunawardena,1971-06-19,Male,Badulla,Nurse,2024-01-22,BR0001,Inactive
+CUST00167,Kasun,Fernando,1979-03-20,Female,Ratnapura,Doctor,2022-07-16,BR0005,Active
+CUST00168,Nimal,Wickramasinghe,1969-01-27,Male,Anuradhapura,Self Employed,2021-06-20,BR0020,Inactive
+CUST00169,Kamal,Fernando,1976-03-22,Male,Ratnapura,Teacher,2024-08-09,BR0012,Active
+CUST00170,Dinushi,Rajapaksha,1985-07-24,Female,Jaffna,Nurse,2022-09-06,BR0010,Inactive
+CUST00171,Saman,Gunawardena,1999-07-12,Female,Kurunegala,Student,2025-08-21,BR0017,Inactive
+CUST00172,Kamal,Jayasinghe,1972-06-01,Female,Colombo,Manager,2024-02-29,BR0018,Active
+CUST00173,Chathura,Senanayake,1971-03-09,Female,Kandy,Accountant,2023-01-22,BR0015,Active
+CUST00174,Tharushi,Silva,1979-12-02,Female,Anuradhapura,Teacher,2024-08-26,BR0002,Inactive
+CUST00175,Kavindi,Gunawardena,1981-02-24,Female,Kandy,Software Developer,2022-07-08,BR0001,Inactive
+CUST00176,Nimal,Gunawardena,1973-02-06,Male,Colombo,Business Owner,2025-04-19,BR0005,Inactive
+CUST00177,Dinushi,Rajapaksha,1960-06-21,Male,Colombo,Business Owner,2022-06-02,BR0005,Inactive
+CUST00178,Nimal,Wickramasinghe,1981-04-26,Female,Kandy,Teacher,2022-09-03,BR0014,Inactive
+CUST00179,Nimal,Silva,2004-11-03,Male,Trincomalee,Self Employed,2022-09-17,BR0005,Inactive
+CUST00180,Tharushi,Perera,1991-08-27,Male,Matara,Student,2022-02-06,BR0003,Inactive
+CUST00181,Nimal,Senanayake,2005-07-07,Male,Badulla,Manager,2020-06-27,BR0013,Inactive
+CUST00182,Kasun,Perera,1992-01-14,Male,Anuradhapura,Doctor,2021-02-28,BR0019,Inactive
+CUST00183,Kamal,Perera,1991-08-10,Female,Galle,Manager,2025-05-14,BR0006,Active
+CUST00184,Nimal,Bandara,1963-04-26,Female,Jaffna,Teacher,2022-03-28,BR0002,Inactive
+CUST00185,Kasun,Senanayake,1995-09-23,Female,Kurunegala,Teacher,2022-02-21,BR0010,Inactive
+CUST00186,Amal,Gunawardena,1984-07-05,Male,Anuradhapura,Student,2024-06-26,BR0015,Inactive
+CUST00187,Nuwan,Fernando,2004-07-07,Female,Anuradhapura,Nurse,2022-12-28,BR0003,Inactive
+CUST00188,Nimal,De Silva,1976-03-10,Female,Anuradhapura,Engineer,2020-11-23,BR0011,Inactive
+CUST00189,Kasun,Bandara,1998-03-24,Male,Ratnapura,Software Developer,2025-01-05,BR0002,Inactive
+CUST00190,Sanduni,De Silva,1984-08-18,Male,Kandy,Student,2024-01-28,BR0017,Active
+CUST00191,Amal,Fernando,1999-04-24,Male,Galle,Engineer,2022-08-24,BR0012,Inactive
+CUST00192,Tharushi,Rajapaksha,1962-11-27,Male,Ratnapura,Software Developer,2024-03-03,BR0015,Active
+CUST00193,Sanduni,Fernando,1992-12-02,Female,Anuradhapura,Business Owner,2022-10-19,BR0004,Active
+CUST00194,Chathura,Fernando,2004-10-08,Female,Trincomalee,Engineer,2022-12-08,BR0009,Inactive
+CUST00195,Saman,Rajapaksha,1985-08-14,Female,Jaffna,Engineer,2021-07-09,BR0003,Inactive
+CUST00196,Kamal,Bandara,1967-11-16,Female,Anuradhapura,Engineer,2023-04-04,BR0010,Active
+CUST00197,Chathura,Fernando,1992-06-06,Male,Kandy,Doctor,2021-07-22,BR0008,Inactive
+CUST00198,Amal,Gunawardena,1993-02-04,Female,Trincomalee,Accountant,2020-12-19,BR0003,Inactive
+CUST00199,Tharushi,Bandara,1996-11-07,Female,Matara,Engineer,2021-05-28,BR0011,Active
+CUST00200,Dinushi,Bandara,1990-11-28,Male,Trincomalee,Self Employed,2022-01-15,BR0005,Inactive
+CUST00201,Kavindi,Perera,1971-02-20,Male,Kurunegala,Accountant,2021-10-25,BR0011,Active
+CUST00202,Nuwan,Senanayake,1985-06-25,Male,Kurunegala,Doctor,2023-01-29,BR0005,Inactive
+CUST00203,Sanduni,Senanayake,1968-05-19,Male,Matara,Self Employed,2021-09-23,BR0006,Inactive
+CUST00204,Sanduni,Perera,1962-07-18,Male,Colombo,Self Employed,2022-12-20,BR0007,Inactive
+CUST00205,Sanduni,Perera,2004-09-05,Female,Kurunegala,Manager,2022-09-30,BR0013,Inactive
+CUST00206,Dinushi,Silva,1965-05-17,Male,Ratnapura,Student,2025-06-06,BR0015,Active
+CUST00207,Nuwan,Rajapaksha,1972-11-20,Female,Anuradhapura,Software Developer,2024-06-21,BR0005,Inactive
+CUST00208,Kavindi,Senanayake,1969-07-11,Female,Jaffna,Manager,2021-05-16,BR0009,Inactive
+CUST00209,Saman,Fernando,1968-09-07,Male,Kurunegala,Student,2024-09-08,BR0008,Active
+CUST00210,Nuwan,Rajapaksha,1988-01-21,Male,Galle,Manager,2025-10-09,BR0015,Inactive
+CUST00211,Kasun,Bandara,1962-01-29,Male,Badulla,Nurse,2025-02-15,BR0008,Active
+CUST00212,Sanduni,Gunawardena,1964-05-13,Male,Kurunegala,Manager,2025-04-11,BR0010,Active
+CUST00213,Nimal,De Silva,1972-01-06,Female,Anuradhapura,Student,2024-02-07,BR0002,Inactive
+CUST00214,Amal,Rajapaksha,1977-06-18,Female,Trincomalee,Business Owner,2020-10-28,BR0013,Inactive
+CUST00215,Kavindi,Wickramasinghe,1970-08-29,Male,Kandy,Student,2024-03-08,BR0011,Inactive
+CUST00216,Kamal,Jayasinghe,2005-09-03,Female,Trincomalee,Teacher,2020-07-04,BR0002,Active
+CUST00217,Chathura,Gunawardena,2002-07-02,Female,Galle,Self Employed,2025-10-12,BR0005,Inactive
+CUST00218,Sanduni,Gunawardena,1974-07-30,Female,Matara,Business Owner,2023-10-09,BR0017,Inactive
+CUST00219,Chathura,Rajapaksha,1986-11-23,Female,Colombo,Software Developer,2023-09-18,BR0004,Inactive
+CUST00220,Sanduni,Wickramasinghe,1962-05-23,Female,Kurunegala,Self Employed,2022-07-21,BR0002,Inactive
+CUST00221,Kamal,Senanayake,1994-02-09,Male,Jaffna,Teacher,2021-03-26,BR0007,Active
+CUST00222,Dinushi,Gunawardena,1997-07-27,Male,Badulla,Doctor,2024-08-07,BR0017,Inactive
+CUST00223,Chathura,Perera,1972-05-21,Male,Trincomalee,Software Developer,2025-05-13,BR0017,Inactive
+CUST00224,Nuwan,Fernando,2001-03-28,Female,Trincomalee,Software Developer,2022-12-18,BR0020,Inactive
+CUST00225,Saman,Jayasinghe,1985-01-11,Female,Jaffna,Business Owner,2023-03-29,BR0007,Inactive
+CUST00226,Nuwan,Bandara,1991-04-17,Female,Kurunegala,Engineer,2024-04-04,BR0013,Inactive
+CUST00227,Kamal,Wickramasinghe,1963-10-10,Female,Kandy,Software Developer,2024-12-16,BR0009,Inactive
+CUST00228,Saman,Jayasinghe,1984-04-28,Female,Galle,Engineer,2022-09-07,BR0008,Active
+CUST00229,Ishara,Senanayake,1980-03-30,Male,Colombo,Engineer,2024-08-19,BR0011,Inactive
+CUST00230,Nimal,Fernando,1960-06-18,Male,Badulla,Manager,2025-05-09,BR0007,Inactive
+CUST00231,Nuwan,Wickramasinghe,1965-04-22,Male,Matara,Doctor,2025-12-31,BR0002,Active
+CUST00232,Tharushi,Fernando,1963-04-05,Female,Ratnapura,Accountant,2023-03-31,BR0002,Active
+CUST00233,Kasun,Rajapaksha,1969-08-17,Female,Kurunegala,Manager,2025-11-17,BR0016,Active
+CUST00234,Kavindi,Bandara,1984-06-23,Male,Kandy,Software Developer,2021-10-27,BR0015,Inactive
+CUST00235,Chathura,Fernando,1961-04-06,Female,Kurunegala,Self Employed,2022-03-02,BR0006,Inactive
+CUST00236,Tharushi,Senanayake,1989-06-02,Male,Badulla,Engineer,2022-01-26,BR0005,Inactive
+CUST00237,Nuwan,Jayasinghe,1960-08-11,Female,Badulla,Doctor,2025-01-03,BR0009,Inactive
+CUST00238,Kasun,Rajapaksha,1961-01-09,Female,Anuradhapura,Doctor,2020-09-11,BR0004,Inactive
+CUST00239,Kasun,Fernando,1996-05-15,Female,Kandy,Business Owner,2024-02-14,BR0020,Active
+CUST00240,Saman,Fernando,2002-11-25,Male,Ratnapura,Self Employed,2024-03-10,BR0014,Inactive
+CUST00241,Kavindi,Jayasinghe,1982-03-14,Male,Trincomalee,Manager,2025-12-03,BR0012,Active
+CUST00242,Sanduni,Silva,1965-07-16,Male,Matara,Nurse,2021-09-05,BR0006,Inactive
+CUST00243,Kavindi,Bandara,1970-06-05,Male,Matara,Manager,2021-01-07,BR0017,Inactive
+CUST00244,Amal,Bandara,1971-11-02,Female,Ratnapura,Self Employed,2020-08-24,BR0018,Inactive
+CUST00245,Ishara,Wickramasinghe,1961-12-14,Female,Kurunegala,Teacher,2022-06-11,BR0019,Active
+CUST00246,Amal,De Silva,1990-11-28,Male,Trincomalee,Teacher,2020-10-09,BR0016,Active
+CUST00247,Kasun,De Silva,1976-02-23,Male,Badulla,Software Developer,2024-04-15,BR0015,Inactive
+CUST00248,Tharushi,Silva,1971-12-06,Female,Kandy,Accountant,2024-05-28,BR0017,Active
+CUST00249,Chathura,Jayasinghe,1960-04-23,Male,Kurunegala,Manager,2024-10-03,BR0018,Inactive
+CUST00250,Saman,Jayasinghe,2001-04-28,Female,Galle,Business Owner,2022-02-11,BR0004,Active
+CUST00251,Ishara,De Silva,1961-05-27,Male,Jaffna,Engineer,2021-02-17,BR0020,Active
+CUST00252,Dinushi,Rajapaksha,1964-05-14,Male,Colombo,Student,2024-12-02,BR0008,Active
+CUST00253,Amal,Fernando,2005-03-16,Female,Jaffna,Self Employed,2023-07-30,BR0019,Inactive
+CUST00254,Saman,Wickramasinghe,1972-11-07,Male,Badulla,Business Owner,2023-02-01,BR0002,Active
+CUST00255,Ishara,De Silva,2004-06-18,Male,Anuradhapura,Student,2025-11-18,BR0011,Inactive
+CUST00256,Tharushi,Fernando,1986-11-26,Female,Galle,Nurse,2025-04-23,BR0008,Active
+CUST00257,Kasun,Fernando,2001-07-16,Male,Trincomalee,Student,2024-09-02,BR0018,Active
+CUST00258,Tharushi,Jayasinghe,1982-11-16,Male,Anuradhapura,Engineer,2025-01-16,BR0012,Active
+CUST00259,Kavindi,Jayasinghe,1964-08-15,Female,Badulla,Self Employed,2020-06-10,BR0003,Active
+CUST00260,Sanduni,Senanayake,1979-06-21,Female,Jaffna,Software Developer,2023-05-26,BR0001,Active
+CUST00261,Saman,Silva,2002-12-19,Male,Matara,Doctor,2024-06-12,BR0008,Inactive
+CUST00262,Kasun,De Silva,2001-10-30,Female,Kurunegala,Business Owner,2024-01-13,BR0017,Inactive
+CUST00263,Dinushi,Silva,2002-02-13,Female,Jaffna,Software Developer,2023-07-05,BR0014,Active
+CUST00264,Sanduni,Jayasinghe,1973-02-02,Male,Kurunegala,Nurse,2024-09-06,BR0010,Active
+CUST00265,Saman,Gunawardena,1980-08-20,Female,Matara,Doctor,2025-08-07,BR0018,Inactive
+CUST00266,Kasun,Bandara,2004-01-05,Female,Galle,Software Developer,2021-11-24,BR0005,Inactive
+CUST00267,Kamal,Senanayake,1965-04-08,Male,Kandy,Teacher,2020-01-27,BR0014,Active
+CUST00268,Ishara,Jayasinghe,1966-02-05,Male,Colombo,Doctor,2025-09-02,BR0015,Inactive
+CUST00269,Amal,Rajapaksha,2003-05-08,Female,Colombo,Teacher,2025-12-19,BR0018,Inactive
+CUST00270,Amal,Perera,1984-08-24,Female,Colombo,Nurse,2024-10-29,BR0006,Active
+CUST00271,Nimal,Senanayake,1973-05-11,Male,Jaffna,Self Employed,2025-11-26,BR0009,Inactive
+CUST00272,Kasun,De Silva,1967-02-02,Female,Badulla,Manager,2022-09-23,BR0008,Inactive
+CUST00273,Ishara,Silva,1962-11-04,Male,Badulla,Student,2024-03-24,BR0018,Inactive
+CUST00274,Amal,Perera,1975-05-17,Male,Ratnapura,Student,2023-09-18,BR0019,Active
+CUST00275,Kavindi,Perera,1980-08-11,Male,Matara,Manager,2023-01-15,BR0002,Active
+CUST00276,Ishara,Wickramasinghe,1962-12-14,Male,Anuradhapura,Teacher,2022-04-28,BR0019,Active
+CUST00277,Chathura,De Silva,1966-11-26,Female,Galle,Self Employed,2022-09-11,BR0019,Inactive
+CUST00278,Ishara,Senanayake,1989-10-05,Female,Galle,Engineer,2025-08-13,BR0012,Active
+CUST00279,Nimal,De Silva,1980-10-28,Male,Anuradhapura,Self Employed,2024-06-12,BR0011,Active
+CUST00280,Ishara,Wickramasinghe,2000-06-02,Female,Jaffna,Software Developer,2024-03-17,BR0014,Active
+CUST00281,Ishara,Rajapaksha,1994-02-05,Male,Matara,Business Owner,2022-10-06,BR0003,Active
+CUST00282,Kasun,Fernando,1994-02-02,Male,Badulla,Software Developer,2024-01-17,BR0004,Active
+CUST00283,Amal,Wickramasinghe,1999-11-25,Female,Kurunegala,Engineer,2021-06-26,BR0003,Active
+CUST00284,Tharushi,Bandara,2005-12-21,Female,Kandy,Teacher,2021-01-02,BR0012,Active
+CUST00285,Sanduni,Rajapaksha,1989-02-07,Female,Colombo,Business Owner,2024-08-21,BR0013,Active
+CUST00286,Chathura,Senanayake,1981-10-11,Male,Badulla,Accountant,2021-07-22,BR0009,Inactive
+CUST00287,Kasun,Bandara,1973-02-02,Male,Galle,Student,2023-02-04,BR0014,Inactive
+CUST00288,Dinushi,Silva,1992-05-25,Female,Jaffna,Manager,2022-03-11,BR0015,Active
+CUST00289,Kamal,Wickramasinghe,1960-08-09,Female,Anuradhapura,Self Employed,2024-04-05,BR0011,Inactive
+CUST00290,Nuwan,De Silva,1972-03-18,Female,Anuradhapura,Self Employed,2022-04-02,BR0016,Inactive
+CUST00291,Kamal,De Silva,1988-08-18,Female,Ratnapura,Self Employed,2022-09-19,BR0011,Inactive
+CUST00292,Kasun,De Silva,1992-09-29,Male,Matara,Doctor,2022-01-06,BR0018,Active
+CUST00293,Chathura,Bandara,1978-10-22,Female,Kurunegala,Engineer,2024-08-02,BR0016,Active
+CUST00294,Ishara,Wickramasinghe,1981-09-17,Female,Galle,Student,2024-03-24,BR0003,Inactive
+CUST00295,Sanduni,Bandara,1995-12-16,Female,Trincomalee,Teacher,2024-01-12,BR0018,Active
+CUST00296,Nimal,Jayasinghe,1991-11-06,Male,Matara,Teacher,2024-06-24,BR0011,Inactive
+CUST00297,Nimal,Perera,1968-11-05,Female,Jaffna,Nurse,2025-10-25,BR0018,Active
+CUST00298,Dinushi,Gunawardena,1995-02-02,Female,Matara,Nurse,2021-09-09,BR0012,Active
+CUST00299,Dinushi,Silva,1986-07-03,Female,Kandy,Engineer,2021-08-03,BR0012,Inactive
+CUST00300,Nuwan,Bandara,1978-07-23,Female,Anuradhapura,Manager,2021-02-03,BR0015,Inactive
+CUST00301,Nuwan,Silva,1986-12-09,Male,Kandy,Teacher,2023-11-06,BR0004,Active
+CUST00302,Chathura,Jayasinghe,1975-08-26,Male,Anuradhapura,Nurse,2024-10-12,BR0015,Active
+CUST00303,Tharushi,Fernando,1976-09-20,Female,Badulla,Teacher,2022-03-19,BR0015,Inactive
+CUST00304,Tharushi,Perera,1979-04-09,Male,Kurunegala,Engineer,2021-02-20,BR0018,Active
+CUST00305,Nuwan,Gunawardena,1977-09-05,Female,Kandy,Business Owner,2025-06-27,BR0017,Inactive
+CUST00306,Sanduni,De Silva,1995-03-20,Male,Anuradhapura,Software Developer,2025-02-18,BR0020,Active
+CUST00307,Ishara,Wickramasinghe,1967-08-09,Male,Anuradhapura,Engineer,2022-09-04,BR0010,Active
+CUST00308,Kamal,Gunawardena,1972-09-06,Female,Badulla,Self Employed,2021-07-18,BR0019,Inactive
+CUST00309,Tharushi,Fernando,2003-08-30,Male,Trincomalee,Accountant,2025-06-28,BR0010,Active
+CUST00310,Kamal,Gunawardena,2000-06-17,Male,Anuradhapura,Teacher,2025-06-07,BR0005,Active
+CUST00311,Tharushi,Senanayake,2005-05-06,Female,Badulla,Manager,2024-08-29,BR0015,Inactive
+CUST00312,Kamal,Silva,1962-10-08,Male,Kurunegala,Teacher,2023-01-30,BR0008,Inactive
+CUST00313,Kamal,Bandara,2004-06-08,Male,Matara,Engineer,2023-01-02,BR0018,Inactive
+CUST00314,Kavindi,Perera,1999-08-06,Male,Badulla,Engineer,2022-10-10,BR0010,Active
+CUST00315,Dinushi,Wickramasinghe,1991-04-10,Male,Ratnapura,Engineer,2022-08-28,BR0007,Inactive
+CUST00316,Chathura,Rajapaksha,1998-05-31,Male,Matara,Accountant,2022-04-26,BR0007,Active
+CUST00317,Sanduni,Gunawardena,1985-03-20,Male,Anuradhapura,Business Owner,2023-03-31,BR0019,Inactive
+CUST00318,Kavindi,Silva,1972-02-29,Female,Colombo,Business Owner,2021-06-03,BR0005,Active
+CUST00319,Kamal,Gunawardena,1982-03-17,Female,Ratnapura,Accountant,2023-01-05,BR0014,Inactive
+CUST00320,Dinushi,Silva,1968-05-08,Female,Trincomalee,Business Owner,2024-02-20,BR0015,Inactive
+CUST00321,Nuwan,Rajapaksha,1960-03-22,Male,Ratnapura,Software Developer,2020-09-16,BR0018,Inactive
+CUST00322,Saman,De Silva,1979-01-02,Female,Kurunegala,Software Developer,2023-03-07,BR0011,Active
+CUST00323,Sanduni,Bandara,1990-11-02,Male,Colombo,Engineer,2025-02-25,BR0001,Active
+CUST00324,Kamal,Bandara,2000-12-15,Male,Badulla,Doctor,2021-06-24,BR0010,Active
+CUST00325,Kasun,Silva,1992-05-02,Female,Kandy,Software Developer,2021-11-08,BR0002,Inactive
+CUST00326,Ishara,Wickramasinghe,1981-01-02,Female,Kandy,Engineer,2020-01-05,BR0007,Inactive
+CUST00327,Nimal,Fernando,1980-04-16,Female,Colombo,Teacher,2023-11-08,BR0004,Inactive
+CUST00328,Chathura,Fernando,2002-11-09,Male,Jaffna,Student,2020-12-31,BR0004,Active
+CUST00329,Nuwan,Gunawardena,1986-11-05,Male,Badulla,Accountant,2021-08-08,BR0003,Active
+CUST00330,Sanduni,Fernando,1999-06-26,Female,Jaffna,Accountant,2024-08-13,BR0020,Inactive
+CUST00331,Saman,Silva,1969-01-05,Male,Kandy,Self Employed,2024-04-21,BR0012,Inactive
+CUST00332,Nuwan,Fernando,1982-03-25,Female,Kandy,Doctor,2023-03-13,BR0001,Inactive
+CUST00333,Saman,Senanayake,2005-09-17,Male,Badulla,Business Owner,2020-08-11,BR0008,Inactive
+CUST00334,Tharushi,Silva,1981-08-17,Female,Matara,Engineer,2025-12-03,BR0001,Inactive
+CUST00335,Nuwan,Fernando,1994-09-14,Female,Anuradhapura,Nurse,2021-12-08,BR0016,Active
+CUST00336,Amal,Rajapaksha,1966-01-21,Male,Kurunegala,Doctor,2020-06-12,BR0002,Inactive
+CUST00337,Kavindi,Wickramasinghe,2004-12-13,Female,Badulla,Student,2020-12-03,BR0018,Active
+CUST00338,Kasun,Silva,1987-10-21,Male,Trincomalee,Doctor,2021-09-28,BR0018,Inactive
+CUST00339,Tharushi,Rajapaksha,1965-12-06,Female,Badulla,Doctor,2020-08-25,BR0008,Active
+CUST00340,Tharushi,Silva,2000-09-03,Male,Kurunegala,Accountant,2021-05-04,BR0001,Active
+CUST00341,Chathura,Perera,1974-09-12,Female,Anuradhapura,Nurse,2025-10-19,BR0009,Active
+CUST00342,Nuwan,Fernando,1984-02-10,Male,Colombo,Software Developer,2024-10-24,BR0009,Active
+CUST00343,Kasun,Rajapaksha,1966-11-30,Female,Ratnapura,Nurse,2024-01-15,BR0002,Inactive
+CUST00344,Sanduni,Fernando,1992-12-26,Male,Kurunegala,Engineer,2021-04-17,BR0008,Active
+CUST00345,Amal,Perera,1981-12-09,Male,Ratnapura,Software Developer,2024-04-17,BR0005,Active
+CUST00346,Amal,Senanayake,1997-08-15,Male,Anuradhapura,Doctor,2024-08-31,BR0011,Inactive
+CUST00347,Nimal,Rajapaksha,1993-06-12,Male,Trincomalee,Teacher,2022-01-04,BR0008,Active
+CUST00348,Tharushi,Silva,2001-09-22,Female,Kurunegala,Software Developer,2020-12-19,BR0018,Inactive
+CUST00349,Amal,Gunawardena,1978-01-01,Female,Matara,Business Owner,2022-09-20,BR0015,Inactive
+CUST00350,Sanduni,Bandara,1977-07-13,Male,Galle,Teacher,2024-08-06,BR0001,Active
+CUST00351,Kavindi,Gunawardena,1960-11-10,Female,Colombo,Student,2023-06-13,BR0004,Active
+CUST00352,Kavindi,Jayasinghe,1997-08-30,Female,Colombo,Accountant,2023-02-20,BR0003,Active
+CUST00353,Saman,Senanayake,1997-01-21,Female,Ratnapura,Engineer,2021-01-26,BR0017,Active
+CUST00354,Ishara,De Silva,1966-09-18,Male,Badulla,Accountant,2022-08-27,BR0010,Inactive
+CUST00355,Nuwan,De Silva,1989-04-08,Female,Ratnapura,Business Owner,2022-08-14,BR0003,Active
+CUST00356,Kamal,Rajapaksha,1969-10-10,Male,Kandy,Accountant,2025-01-15,BR0015,Inactive
+CUST00357,Tharushi,Silva,1992-02-22,Male,Ratnapura,Business Owner,2025-03-12,BR0009,Active
+CUST00358,Nimal,Fernando,1987-04-17,Male,Jaffna,Software Developer,2021-08-30,BR0003,Active
+CUST00359,Nuwan,De Silva,1964-05-23,Female,Kurunegala,Accountant,2020-05-07,BR0013,Inactive
+CUST00360,Kavindi,Senanayake,1982-06-01,Male,Ratnapura,Engineer,2021-07-26,BR0004,Active
+CUST00361,Amal,Jayasinghe,1971-09-23,Male,Badulla,Software Developer,2020-12-10,BR0019,Inactive
+CUST00362,Nimal,Perera,1965-10-13,Male,Ratnapura,Accountant,2021-01-11,BR0011,Active
+CUST00363,Amal,Bandara,1964-07-17,Male,Matara,Student,2024-06-05,BR0016,Active
+CUST00364,Tharushi,De Silva,1975-07-03,Female,Jaffna,Accountant,2023-01-31,BR0009,Inactive
+CUST00365,Kamal,Perera,1982-01-18,Female,Ratnapura,Student,2025-05-16,BR0002,Active
+CUST00366,Kasun,De Silva,1972-04-23,Female,Jaffna,Nurse,2022-10-17,BR0018,Active
+CUST00367,Tharushi,Gunawardena,2003-01-13,Female,Anuradhapura,Self Employed,2025-08-19,BR0011,Inactive
+CUST00368,Kasun,Fernando,1962-05-04,Female,Matara,Doctor,2020-04-30,BR0009,Active
+CUST00369,Dinushi,Senanayake,1992-01-25,Male,Galle,Engineer,2022-10-12,BR0008,Inactive
+CUST00370,Kavindi,Perera,1979-09-07,Female,Anuradhapura,Accountant,2021-12-22,BR0008,Inactive
+CUST00371,Chathura,Gunawardena,1962-07-13,Female,Matara,Self Employed,2021-08-05,BR0019,Active
+CUST00372,Dinushi,Senanayake,1987-09-23,Male,Ratnapura,Teacher,2021-01-04,BR0002,Active
+CUST00373,Sanduni,Jayasinghe,1961-10-15,Female,Colombo,Software Developer,2022-04-05,BR0005,Inactive
+CUST00374,Chathura,Fernando,1989-01-11,Male,Colombo,Accountant,2021-08-03,BR0004,Inactive
+CUST00375,Nimal,Gunawardena,1995-06-28,Male,Anuradhapura,Business Owner,2023-08-14,BR0005,Active
+CUST00376,Chathura,De Silva,2003-09-16,Female,Galle,Nurse,2024-01-01,BR0008,Active
+CUST00377,Tharushi,Wickramasinghe,1986-06-03,Male,Galle,Teacher,2024-05-22,BR0019,Active
+CUST00378,Kamal,Rajapaksha,1988-07-19,Male,Matara,Engineer,2025-07-25,BR0005,Inactive
+CUST00379,Chathura,Silva,1981-05-08,Female,Anuradhapura,Accountant,2020-12-29,BR0011,Inactive
+CUST00380,Amal,Wickramasinghe,1978-10-23,Male,Kandy,Software Developer,2022-11-17,BR0004,Active
+CUST00381,Amal,De Silva,1999-04-25,Female,Galle,Student,2025-07-12,BR0013,Inactive
+CUST00382,Kavindi,De Silva,1969-02-05,Female,Matara,Doctor,2021-10-28,BR0015,Active
+CUST00383,Amal,Wickramasinghe,1961-10-19,Female,Kurunegala,Engineer,2020-10-30,BR0011,Active
+CUST00384,Tharushi,Fernando,1966-09-23,Male,Anuradhapura,Self Employed,2025-05-31,BR0001,Inactive
+CUST00385,Ishara,Fernando,1998-12-14,Male,Colombo,Engineer,2023-09-18,BR0007,Active
+CUST00386,Tharushi,Senanayake,1983-10-19,Female,Kurunegala,Doctor,2021-01-27,BR0002,Inactive
+CUST00387,Sanduni,Senanayake,2004-01-17,Male,Colombo,Software Developer,2020-01-16,BR0014,Active
+CUST00388,Kasun,Rajapaksha,2003-02-03,Male,Kandy,Teacher,2022-04-27,BR0006,Inactive
+CUST00389,Nimal,Bandara,1970-05-12,Female,Badulla,Manager,2025-06-26,BR0009,Active
+CUST00390,Ishara,Senanayake,1994-10-07,Male,Anuradhapura,Student,2024-02-22,BR0006,Inactive
+CUST00391,Amal,Wickramasinghe,1999-06-14,Female,Kurunegala,Doctor,2023-01-05,BR0019,Active
+CUST00392,Kamal,Silva,1967-09-09,Female,Trincomalee,Student,2022-07-20,BR0018,Active
+CUST00393,Tharushi,Senanayake,1997-07-22,Female,Matara,Doctor,2025-05-04,BR0010,Active
+CUST00394,Tharushi,Perera,2005-01-16,Male,Kandy,Manager,2021-12-09,BR0006,Active
+CUST00395,Saman,Fernando,1963-10-30,Female,Kandy,Student,2022-04-07,BR0005,Inactive
+CUST00396,Nuwan,Silva,1967-10-22,Female,Trincomalee,Student,2023-08-28,BR0009,Inactive
+CUST00397,Amal,Rajapaksha,1997-08-23,Male,Badulla,Accountant,2021-08-30,BR0019,Active
+CUST00398,Nimal,Rajapaksha,1969-01-22,Female,Trincomalee,Software Developer,2024-08-10,BR0009,Inactive
+CUST00399,Ishara,Bandara,2002-06-09,Male,Galle,Business Owner,2024-07-08,BR0005,Inactive
+CUST00400,Amal,De Silva,1989-09-27,Male,Colombo,Manager,2023-01-05,BR0012,Active
+CUST00401,Nuwan,Wickramasinghe,1987-11-24,Female,Ratnapura,Engineer,2022-07-22,BR0005,Inactive
+CUST00402,Chathura,Bandara,1988-10-14,Female,Badulla,Self Employed,2020-12-31,BR0007,Inactive
+CUST00403,Saman,De Silva,2003-06-18,Female,Colombo,Nurse,2021-10-13,BR0003,Inactive
+CUST00404,Chathura,Senanayake,1996-03-10,Male,Trincomalee,Self Employed,2020-04-28,BR0006,Active
+CUST00405,Saman,Perera,1982-05-20,Male,Ratnapura,Teacher,2024-01-16,BR0007,Inactive
+CUST00406,Nuwan,Bandara,2005-04-25,Female,Kandy,Teacher,2022-09-17,BR0012,Inactive
+CUST00407,Sanduni,Bandara,1975-12-07,Female,Matara,Nurse,2023-12-03,BR0012,Active
+CUST00408,Kasun,Silva,1985-07-29,Male,Badulla,Teacher,2021-10-29,BR0019,Active
+CUST00409,Saman,Jayasinghe,1978-07-19,Female,Badulla,Nurse,2020-03-23,BR0001,Inactive
+CUST00410,Kamal,Fernando,1960-10-04,Male,Kurunegala,Self Employed,2023-06-05,BR0009,Inactive
+CUST00411,Tharushi,Gunawardena,2001-03-06,Female,Jaffna,Manager,2023-05-22,BR0017,Inactive
+CUST00412,Sanduni,Silva,1960-08-28,Female,Trincomalee,Self Employed,2023-03-03,BR0010,Active
+CUST00413,Dinushi,Silva,1990-03-03,Female,Anuradhapura,Business Owner,2022-12-05,BR0010,Active
+CUST00414,Kamal,Senanayake,1981-07-23,Male,Matara,Student,2023-08-02,BR0005,Active
+CUST00415,Ishara,Bandara,1986-07-09,Female,Badulla,Student,2024-05-09,BR0002,Active
+CUST00416,Nuwan,Jayasinghe,2002-09-05,Female,Trincomalee,Business Owner,2021-11-27,BR0018,Active
+CUST00417,Kasun,Silva,2002-03-27,Male,Kurunegala,Nurse,2022-01-19,BR0011,Active
+CUST00418,Saman,Gunawardena,1980-01-14,Female,Badulla,Software Developer,2024-03-02,BR0009,Inactive
+CUST00419,Dinushi,Silva,2002-03-19,Male,Matara,Self Employed,2020-10-18,BR0016,Active
+CUST00420,Kavindi,Silva,1994-03-29,Female,Badulla,Teacher,2021-09-09,BR0005,Active
+CUST00421,Nuwan,De Silva,2001-01-18,Male,Anuradhapura,Accountant,2020-11-27,BR0016,Inactive
+CUST00422,Ishara,Fernando,1988-02-12,Male,Colombo,Manager,2023-01-25,BR0007,Active
+CUST00423,Sanduni,Fernando,2003-12-03,Male,Galle,Self Employed,2024-11-11,BR0014,Inactive
+CUST00424,Tharushi,Bandara,1994-05-22,Male,Colombo,Nurse,2022-03-27,BR0012,Active
+CUST00425,Nuwan,Senanayake,1977-02-04,Male,Colombo,Doctor,2022-07-15,BR0012,Inactive
+CUST00426,Kamal,Silva,1994-05-30,Female,Galle,Engineer,2020-07-06,BR0010,Inactive
+CUST00427,Dinushi,Senanayake,1990-04-23,Female,Galle,Software Developer,2025-06-30,BR0012,Active
+CUST00428,Kamal,De Silva,1961-09-18,Male,Jaffna,Accountant,2022-05-15,BR0001,Active
+CUST00429,Nimal,Gunawardena,1963-05-09,Female,Kurunegala,Nurse,2020-07-18,BR0020,Active
+CUST00430,Ishara,Silva,1961-10-08,Male,Kandy,Student,2024-12-24,BR0013,Active
+CUST00431,Kavindi,Wickramasinghe,2002-07-24,Male,Jaffna,Teacher,2023-05-18,BR0014,Active
+CUST00432,Ishara,Senanayake,1984-03-21,Male,Badulla,Engineer,2025-09-26,BR0020,Active
+CUST00433,Kasun,Silva,1969-07-14,Female,Jaffna,Self Employed,2022-03-29,BR0009,Active
+CUST00434,Nuwan,De Silva,1986-07-01,Male,Colombo,Nurse,2025-07-26,BR0007,Inactive
+CUST00435,Nuwan,Jayasinghe,1960-03-30,Male,Kandy,Engineer,2025-07-16,BR0005,Active
+CUST00436,Kavindi,Silva,1969-02-01,Female,Jaffna,Manager,2023-04-27,BR0009,Inactive
+CUST00437,Amal,Silva,1975-09-03,Male,Kurunegala,Software Developer,2023-07-04,BR0014,Active
+CUST00438,Nimal,Perera,1960-11-12,Male,Galle,Software Developer,2024-01-04,BR0015,Inactive
+CUST00439,Chathura,Silva,1993-06-06,Female,Galle,Engineer,2024-06-29,BR0013,Inactive
+CUST00440,Kasun,De Silva,2002-11-27,Female,Galle,Engineer,2021-06-26,BR0002,Active
+CUST00441,Nimal,De Silva,2003-04-21,Female,Galle,Self Employed,2024-04-04,BR0012,Active
+CUST00442,Ishara,Fernando,2003-05-04,Female,Kandy,Student,2024-12-10,BR0002,Active
+CUST00443,Kasun,Gunawardena,1961-02-09,Male,Anuradhapura,Nurse,2025-11-12,BR0020,Active
+CUST00444,Tharushi,Jayasinghe,2003-03-27,Female,Badulla,Accountant,2020-08-11,BR0001,Active
+CUST00445,Kavindi,Bandara,2004-06-25,Male,Kandy,Manager,2023-08-06,BR0008,Inactive
+CUST00446,Kasun,Perera,2005-06-24,Male,Trincomalee,Student,2024-07-09,BR0008,Active
+CUST00447,Dinushi,Bandara,2000-03-14,Male,Ratnapura,Manager,2023-07-18,BR0004,Inactive
+CUST00448,Chathura,Perera,1969-03-17,Female,Badulla,Teacher,2020-01-01,BR0003,Inactive
+CUST00449,Kavindi,Senanayake,1978-07-23,Female,Anuradhapura,Software Developer,2020-08-10,BR0008,Inactive
+CUST00450,Nuwan,Senanayake,2002-06-12,Female,Ratnapura,Engineer,2021-02-03,BR0008,Active
+CUST00451,Nuwan,Gunawardena,1986-03-12,Female,Kandy,Teacher,2021-11-03,BR0016,Active
+CUST00452,Chathura,De Silva,1969-08-05,Female,Matara,Doctor,2022-02-07,BR0004,Inactive
+CUST00453,Saman,Bandara,1977-02-04,Female,Kandy,Student,2020-07-09,BR0019,Active
+CUST00454,Dinushi,Bandara,2005-03-26,Male,Ratnapura,Teacher,2025-12-12,BR0002,Inactive
+CUST00455,Sanduni,Bandara,2005-08-09,Male,Matara,Accountant,2021-06-09,BR0004,Inactive
+CUST00456,Ishara,Rajapaksha,1988-11-15,Female,Badulla,Self Employed,2022-10-13,BR0009,Inactive
+CUST00457,Nuwan,Wickramasinghe,2000-08-16,Male,Galle,Student,2025-09-29,BR0010,Inactive
+CUST00458,Chathura,Senanayake,1979-07-01,Male,Jaffna,Self Employed,2023-04-05,BR0012,Active
+CUST00459,Chathura,Fernando,2005-03-16,Female,Kandy,Software Developer,2025-05-21,BR0019,Inactive
+CUST00460,Ishara,Senanayake,1985-08-26,Female,Colombo,Nurse,2021-03-12,BR0001,Inactive
+CUST00461,Kamal,Perera,1965-01-28,Male,Kurunegala,Accountant,2023-03-19,BR0009,Active
+CUST00462,Amal,Wickramasinghe,1978-04-20,Male,Anuradhapura,Manager,2021-02-23,BR0020,Active
+CUST00463,Chathura,Senanayake,1994-11-21,Male,Trincomalee,Business Owner,2020-07-11,BR0013,Inactive
+CUST00464,Tharushi,Gunawardena,1964-10-28,Male,Kurunegala,Doctor,2024-12-19,BR0008,Inactive
+CUST00465,Sanduni,Senanayake,1977-08-16,Male,Kurunegala,Manager,2021-12-27,BR0003,Active
+CUST00466,Kamal,Senanayake,1970-09-15,Female,Colombo,Student,2023-02-17,BR0018,Inactive
+CUST00467,Kamal,Fernando,1982-11-17,Male,Anuradhapura,Manager,2021-09-26,BR0002,Active
+CUST00468,Nuwan,Rajapaksha,1964-07-24,Female,Ratnapura,Self Employed,2024-01-06,BR0003,Inactive
+CUST00469,Kavindi,Jayasinghe,1976-06-30,Male,Trincomalee,Accountant,2024-08-30,BR0018,Inactive
+CUST00470,Nimal,Gunawardena,1979-11-05,Male,Anuradhapura,Software Developer,2024-01-17,BR0010,Active
+CUST00471,Sanduni,Senanayake,2002-08-08,Male,Kandy,Software Developer,2024-12-30,BR0008,Active
+CUST00472,Amal,Gunawardena,1994-03-19,Male,Badulla,Business Owner,2023-03-04,BR0001,Inactive
+CUST00473,Kavindi,Senanayake,1999-12-22,Female,Colombo,Business Owner,2022-02-27,BR0011,Active
+CUST00474,Nimal,Fernando,1960-08-28,Male,Jaffna,Doctor,2024-10-03,BR0004,Active
+CUST00475,Kavindi,De Silva,1966-06-21,Male,Colombo,Manager,2023-09-20,BR0002,Active
+CUST00476,Nimal,Perera,1975-12-20,Female,Trincomalee,Engineer,2022-07-21,BR0009,Inactive
+CUST00477,Tharushi,Bandara,1996-04-13,Female,Anuradhapura,Teacher,2024-05-14,BR0004,Active
+CUST00478,Ishara,Rajapaksha,1965-09-03,Male,Kandy,Software Developer,2025-08-21,BR0004,Inactive
+CUST00479,Ishara,Wickramasinghe,1967-10-05,Female,Ratnapura,Student,2024-06-06,BR0001,Inactive
+CUST00480,Kamal,Senanayake,1979-09-22,Male,Badulla,Nurse,2023-04-23,BR0005,Inactive
+CUST00481,Ishara,Gunawardena,1960-12-31,Male,Kandy,Teacher,2020-01-21,BR0019,Inactive
+CUST00482,Kavindi,Senanayake,1967-08-21,Female,Jaffna,Software Developer,2022-05-17,BR0014,Active
+CUST00483,Kamal,Fernando,1979-10-22,Female,Jaffna,Engineer,2022-01-12,BR0019,Active
+CUST00484,Kavindi,Bandara,1966-07-24,Female,Kandy,Business Owner,2021-02-06,BR0007,Inactive
+CUST00485,Nuwan,Gunawardena,1971-07-03,Male,Kandy,Business Owner,2020-10-12,BR0007,Inactive
+CUST00486,Dinushi,Bandara,1989-06-16,Female,Matara,Accountant,2024-02-01,BR0011,Inactive
+CUST00487,Kamal,Perera,1988-02-06,Male,Jaffna,Student,2023-02-07,BR0012,Active
+CUST00488,Ishara,Gunawardena,2003-01-22,Female,Ratnapura,Software Developer,2023-06-05,BR0016,Active
+CUST00489,Kamal,Rajapaksha,1967-05-10,Female,Galle,Nurse,2022-03-15,BR0009,Active
+CUST00490,Chathura,Silva,1961-09-02,Male,Matara,Self Employed,2024-07-17,BR0019,Active
+CUST00491,Amal,Senanayake,1983-05-19,Female,Galle,Software Developer,2024-05-26,BR0008,Inactive
+CUST00492,Kamal,Bandara,2004-12-15,Male,Badulla,Software Developer,2025-08-18,BR0001,Active
+CUST00493,Sanduni,Fernando,1972-08-04,Female,Galle,Accountant,2021-08-21,BR0016,Inactive
+CUST00494,Amal,Jayasinghe,2003-10-01,Male,Kandy,Business Owner,2024-02-22,BR0008,Active
+CUST00495,Ishara,Jayasinghe,1992-05-29,Female,Ratnapura,Manager,2020-07-09,BR0002,Inactive
+CUST00496,Nimal,Senanayake,1984-07-14,Female,Matara,Nurse,2021-12-13,BR0013,Inactive
+CUST00497,Nuwan,Rajapaksha,1966-12-25,Female,Badulla,Doctor,2025-10-16,BR0013,Inactive
+CUST00498,Nuwan,Bandara,2003-04-02,Male,Trincomalee,Accountant,2024-12-06,BR0006,Active
+CUST00499,Nimal,Senanayake,1985-03-11,Male,Galle,Accountant,2021-10-06,BR0012,Active
+CUST00500,Ishara,Jayasinghe,1997-03-13,Female,Kandy,Manager,2025-05-15,BR0016,Active
+CUST00501,Sanduni,Fernando,1996-11-11,Male,Jaffna,Teacher,2021-06-07,BR0019,Active
+CUST00502,Kamal,Senanayake,1963-07-08,Male,Colombo,Accountant,2022-11-23,BR0006,Inactive
+CUST00503,Sanduni,Rajapaksha,1961-09-02,Female,Kandy,Doctor,2025-01-13,BR0020,Inactive
+CUST00504,Dinushi,Fernando,1979-09-06,Female,Matara,Accountant,2022-01-14,BR0020,Inactive
+CUST00505,Kamal,Gunawardena,2000-09-06,Male,Jaffna,Student,2024-04-27,BR0005,Active
+CUST00506,Amal,Jayasinghe,2005-03-31,Female,Galle,Self Employed,2021-01-29,BR0006,Inactive
+CUST00507,Sanduni,Rajapaksha,1963-07-03,Male,Kandy,Manager,2021-06-17,BR0020,Active
+CUST00508,Ishara,De Silva,1997-09-27,Female,Colombo,Nurse,2024-10-23,BR0008,Inactive
+CUST00509,Tharushi,Gunawardena,1968-10-06,Female,Galle,Business Owner,2025-05-08,BR0008,Active
+CUST00510,Kasun,Rajapaksha,1996-08-29,Female,Jaffna,Teacher,2020-01-30,BR0019,Active
+CUST00511,Kavindi,Perera,1993-08-23,Male,Anuradhapura,Student,2024-01-23,BR0004,Active
+CUST00512,Tharushi,Rajapaksha,1982-10-03,Female,Trincomalee,Student,2024-02-06,BR0020,Inactive
+CUST00513,Ishara,De Silva,1978-04-10,Female,Trincomalee,Nurse,2025-05-30,BR0006,Inactive
+CUST00514,Kavindi,Senanayake,2003-05-26,Female,Kurunegala,Self Employed,2023-11-11,BR0013,Active
+CUST00515,Ishara,Silva,1980-08-12,Female,Galle,Engineer,2022-05-28,BR0017,Inactive
+CUST00516,Nuwan,Senanayake,1964-09-01,Male,Badulla,Teacher,2021-01-08,BR0005,Inactive
+CUST00517,Sanduni,De Silva,1967-11-28,Male,Kurunegala,Doctor,2024-02-27,BR0003,Active
+CUST00518,Chathura,De Silva,1995-12-11,Female,Matara,Teacher,2021-12-18,BR0016,Inactive
+CUST00519,Amal,Jayasinghe,1985-08-28,Male,Colombo,Self Employed,2025-09-22,BR0017,Active
+CUST00520,Sanduni,Fernando,1963-03-27,Female,Jaffna,Teacher,2021-10-06,BR0003,Inactive
+CUST00521,Tharushi,Gunawardena,1995-06-14,Female,Matara,Doctor,2025-10-21,BR0001,Active
+CUST00522,Nimal,Senanayake,1985-07-10,Female,Anuradhapura,Business Owner,2022-07-15,BR0020,Active
+CUST00523,Dinushi,De Silva,1960-06-01,Female,Galle,Student,2025-09-04,BR0004,Active
+CUST00524,Kavindi,Wickramasinghe,1990-07-02,Male,Trincomalee,Business Owner,2022-10-21,BR0015,Inactive
+CUST00525,Sanduni,Bandara,1981-10-28,Female,Ratnapura,Manager,2020-04-22,BR0016,Active
+CUST00526,Kasun,Silva,1994-05-01,Male,Jaffna,Software Developer,2024-08-16,BR0012,Active
+CUST00527,Chathura,Wickramasinghe,1982-04-09,Female,Kandy,Student,2023-11-01,BR0003,Active
+CUST00528,Dinushi,Gunawardena,1991-09-19,Male,Matara,Business Owner,2022-01-18,BR0007,Inactive
+CUST00529,Chathura,Jayasinghe,1981-01-25,Male,Kurunegala,Doctor,2022-07-27,BR0007,Active
+CUST00530,Sanduni,Gunawardena,1973-12-29,Male,Kandy,Engineer,2025-07-10,BR0020,Active
+CUST00531,Kavindi,Perera,2003-04-08,Female,Matara,Software Developer,2025-07-09,BR0019,Inactive
+CUST00532,Dinushi,Fernando,2005-11-08,Female,Badulla,Doctor,2021-06-09,BR0002,Inactive
+CUST00533,Dinushi,Senanayake,1962-12-03,Female,Badulla,Accountant,2025-02-15,BR0004,Inactive
+CUST00534,Nuwan,Perera,1961-01-22,Male,Badulla,Self Employed,2021-02-16,BR0011,Inactive
+CUST00535,Sanduni,Wickramasinghe,1976-10-15,Female,Jaffna,Business Owner,2025-04-14,BR0020,Inactive
+CUST00536,Nuwan,Fernando,2004-09-29,Female,Jaffna,Student,2024-03-04,BR0012,Inactive
+CUST00537,Kasun,Bandara,1976-02-20,Male,Matara,Doctor,2021-02-13,BR0009,Active
+CUST00538,Kavindi,De Silva,1994-03-03,Male,Galle,Accountant,2025-04-21,BR0001,Active
+CUST00539,Tharushi,Bandara,1972-01-24,Female,Ratnapura,Business Owner,2022-10-24,BR0018,Active
+CUST00540,Tharushi,Silva,1974-08-27,Male,Jaffna,Business Owner,2025-05-05,BR0004,Inactive
+CUST00541,Chathura,Gunawardena,1983-04-22,Female,Anuradhapura,Nurse,2022-11-21,BR0012,Active
+CUST00542,Tharushi,Silva,1991-07-01,Male,Matara,Self Employed,2021-12-15,BR0010,Inactive
+CUST00543,Nuwan,Senanayake,2003-09-26,Female,Kandy,Student,2023-03-19,BR0015,Active
+CUST00544,Kamal,Gunawardena,1997-11-04,Female,Kandy,Engineer,2021-10-25,BR0011,Active
+CUST00545,Nuwan,Gunawardena,1986-02-20,Female,Matara,Student,2023-01-16,BR0015,Inactive
+CUST00546,Chathura,Rajapaksha,2000-05-25,Female,Galle,Accountant,2020-04-04,BR0005,Active
+CUST00547,Ishara,Wickramasinghe,1967-03-08,Male,Galle,Student,2021-02-25,BR0004,Active
+CUST00548,Dinushi,Senanayake,1964-10-29,Male,Badulla,Nurse,2020-12-06,BR0004,Inactive
+CUST00549,Sanduni,Fernando,1967-07-25,Female,Kurunegala,Doctor,2022-10-10,BR0010,Inactive
+CUST00550,Ishara,Fernando,1971-10-11,Male,Colombo,Teacher,2024-01-01,BR0011,Inactive
+CUST00551,Dinushi,Senanayake,1984-06-09,Female,Galle,Nurse,2021-12-26,BR0019,Inactive
+CUST00552,Ishara,Rajapaksha,1999-01-09,Female,Anuradhapura,Manager,2022-07-19,BR0003,Inactive
+CUST00553,Kasun,Gunawardena,1996-12-24,Female,Galle,Business Owner,2020-02-13,BR0001,Active
+CUST00554,Nuwan,Wickramasinghe,2002-02-03,Male,Ratnapura,Manager,2023-05-12,BR0001,Inactive
+CUST00555,Kasun,Rajapaksha,1980-09-28,Male,Trincomalee,Software Developer,2022-02-11,BR0014,Inactive
+CUST00556,Tharushi,Jayasinghe,1974-08-25,Female,Badulla,Doctor,2022-12-13,BR0003,Inactive
+CUST00557,Ishara,Jayasinghe,1984-05-22,Female,Trincomalee,Business Owner,2024-08-18,BR0007,Active
+CUST00558,Kamal,Fernando,1985-12-24,Male,Ratnapura,Self Employed,2025-01-28,BR0009,Inactive
+CUST00559,Saman,Gunawardena,1961-09-27,Male,Colombo,Nurse,2020-03-31,BR0006,Active
+CUST00560,Kasun,Wickramasinghe,1971-03-21,Female,Colombo,Doctor,2021-01-04,BR0005,Active
+CUST00561,Dinushi,Jayasinghe,1990-09-03,Female,Kurunegala,Manager,2024-03-01,BR0015,Active
+CUST00562,Nuwan,Silva,1973-02-08,Male,Kurunegala,Student,2020-10-19,BR0018,Inactive
+CUST00563,Kamal,Jayasinghe,1982-06-08,Female,Colombo,Engineer,2022-10-16,BR0013,Inactive
+CUST00564,Saman,Perera,1977-11-13,Female,Kandy,Nurse,2022-05-03,BR0016,Inactive
+CUST00565,Ishara,Wickramasinghe,1988-12-25,Male,Colombo,Nurse,2025-11-03,BR0004,Inactive
+CUST00566,Dinushi,Wickramasinghe,1977-10-29,Female,Colombo,Doctor,2021-04-07,BR0008,Inactive
+CUST00567,Nuwan,Perera,1975-01-06,Female,Matara,Engineer,2024-06-09,BR0008,Active
+CUST00568,Amal,Rajapaksha,2002-08-21,Male,Anuradhapura,Engineer,2022-10-15,BR0006,Inactive
+CUST00569,Nimal,Rajapaksha,1990-05-12,Male,Colombo,Software Developer,2021-09-22,BR0018,Active
+CUST00570,Kamal,Bandara,1980-11-15,Female,Trincomalee,Software Developer,2024-12-01,BR0007,Active
+CUST00571,Chathura,De Silva,1992-02-18,Male,Kurunegala,Teacher,2025-06-10,BR0015,Inactive
+CUST00572,Kavindi,Bandara,1977-01-09,Male,Trincomalee,Software Developer,2023-08-18,BR0015,Inactive
+CUST00573,Sanduni,Senanayake,1974-05-21,Male,Trincomalee,Accountant,2025-01-14,BR0010,Inactive
+CUST00574,Kavindi,Gunawardena,2000-09-26,Male,Trincomalee,Student,2022-01-29,BR0001,Inactive
+CUST00575,Sanduni,Jayasinghe,1988-10-08,Male,Trincomalee,Student,2022-02-16,BR0017,Inactive
+CUST00576,Kavindi,Fernando,1985-05-26,Female,Badulla,Software Developer,2021-03-28,BR0004,Active
+CUST00577,Amal,Fernando,1976-01-10,Male,Jaffna,Engineer,2025-06-11,BR0007,Active
+CUST00578,Amal,Rajapaksha,1994-11-11,Female,Trincomalee,Self Employed,2022-11-14,BR0002,Inactive
+CUST00579,Saman,Rajapaksha,1966-05-11,Male,Jaffna,Manager,2020-11-23,BR0015,Active
+CUST00580,Nuwan,Senanayake,1997-04-25,Female,Colombo,Self Employed,2022-12-24,BR0017,Active
+CUST00581,Chathura,Silva,1987-04-07,Male,Jaffna,Nurse,2021-02-01,BR0004,Active
+CUST00582,Kavindi,De Silva,1976-12-30,Male,Trincomalee,Doctor,2022-01-02,BR0018,Inactive
+CUST00583,Chathura,Silva,1992-02-11,Female,Badulla,Engineer,2021-11-14,BR0006,Inactive
+CUST00584,Kavindi,Gunawardena,1974-03-11,Female,Anuradhapura,Software Developer,2023-08-22,BR0012,Inactive
+CUST00585,Ishara,De Silva,1989-01-06,Male,Matara,Nurse,2022-05-26,BR0013,Inactive
+CUST00586,Nuwan,Bandara,2000-02-23,Female,Colombo,Teacher,2023-03-11,BR0020,Active
+CUST00587,Kavindi,Fernando,1987-01-29,Male,Kurunegala,Doctor,2022-05-29,BR0011,Active
+CUST00588,Chathura,Wickramasinghe,2005-11-13,Male,Kandy,Teacher,2025-02-28,BR0012,Active
+CUST00589,Kamal,Wickramasinghe,1992-12-06,Male,Jaffna,Business Owner,2023-05-15,BR0003,Inactive
+CUST00590,Sanduni,Jayasinghe,1966-12-04,Female,Ratnapura,Accountant,2025-06-22,BR0019,Active
+CUST00591,Sanduni,Wickramasinghe,1963-05-09,Female,Kandy,Teacher,2023-10-01,BR0012,Inactive
+CUST00592,Tharushi,Silva,1980-05-04,Male,Badulla,Teacher,2023-06-02,BR0017,Active
+CUST00593,Nuwan,Senanayake,1973-06-02,Female,Trincomalee,Doctor,2021-09-19,BR0002,Inactive
+CUST00594,Dinushi,Rajapaksha,2005-04-12,Male,Jaffna,Student,2023-04-01,BR0013,Active
+CUST00595,Kamal,Gunawardena,1967-05-28,Female,Matara,Teacher,2024-06-23,BR0009,Active
+CUST00596,Tharushi,Senanayake,1998-12-24,Male,Galle,Manager,2022-03-22,BR0016,Inactive
+CUST00597,Ishara,Rajapaksha,1977-08-04,Male,Jaffna,Engineer,2022-12-26,BR0014,Inactive
+CUST00598,Ishara,Rajapaksha,1968-01-14,Male,Badulla,Student,2024-02-05,BR0012,Active
+CUST00599,Nuwan,Gunawardena,1962-03-04,Female,Galle,Software Developer,2024-12-16,BR0020,Active
+CUST00600,Dinushi,Perera,1980-12-11,Male,Anuradhapura,Accountant,2020-12-17,BR0004,Active
+CUST00601,Saman,Rajapaksha,1973-04-01,Female,Colombo,Software Developer,2021-03-31,BR0010,Inactive
+CUST00602,Dinushi,Perera,1989-10-09,Male,Trincomalee,Doctor,2022-04-14,BR0018,Inactive
+CUST00603,Kavindi,Bandara,1972-09-05,Male,Badulla,Self Employed,2025-11-27,BR0002,Inactive
+CUST00604,Kamal,Perera,1985-06-24,Male,Matara,Business Owner,2020-08-05,BR0015,Active
+CUST00605,Nimal,De Silva,1984-05-04,Female,Kandy,Teacher,2023-04-13,BR0013,Active
+CUST00606,Tharushi,Senanayake,1968-12-07,Female,Ratnapura,Self Employed,2025-12-17,BR0003,Active
+CUST00607,Saman,Senanayake,2001-02-01,Male,Colombo,Doctor,2025-12-08,BR0010,Inactive
+CUST00608,Dinushi,De Silva,1974-01-31,Male,Anuradhapura,Software Developer,2023-12-26,BR0010,Active
+CUST00609,Kavindi,Wickramasinghe,1965-07-24,Female,Badulla,Teacher,2023-02-21,BR0008,Active
+CUST00610,Nuwan,De Silva,1972-04-24,Male,Badulla,Nurse,2022-07-20,BR0014,Active
+CUST00611,Sanduni,Fernando,1998-04-05,Female,Matara,Software Developer,2025-01-13,BR0018,Active
+CUST00612,Saman,Fernando,1978-02-24,Male,Kurunegala,Nurse,2021-07-07,BR0014,Active
+CUST00613,Ishara,Rajapaksha,1974-03-06,Female,Kandy,Nurse,2025-12-23,BR0004,Active
+CUST00614,Nuwan,Fernando,1962-08-24,Female,Badulla,Student,2023-05-27,BR0015,Inactive
+CUST00615,Kamal,Jayasinghe,1969-07-30,Male,Galle,Teacher,2022-12-29,BR0020,Active
+CUST00616,Sanduni,Jayasinghe,1980-09-18,Male,Anuradhapura,Engineer,2025-05-06,BR0005,Inactive
+CUST00617,Chathura,Gunawardena,1976-07-03,Female,Ratnapura,Manager,2021-07-17,BR0006,Active
+CUST00618,Saman,Perera,1996-08-27,Male,Kurunegala,Student,2022-06-30,BR0007,Active
+CUST00619,Nimal,Fernando,1999-05-30,Female,Anuradhapura,Manager,2022-10-07,BR0014,Inactive
+CUST00620,Amal,Rajapaksha,1994-02-15,Female,Badulla,Self Employed,2025-11-21,BR0002,Active
+CUST00621,Dinushi,Bandara,1963-10-21,Male,Trincomalee,Nurse,2024-06-08,BR0002,Inactive
+CUST00622,Kavindi,Perera,1977-01-12,Female,Ratnapura,Student,2023-06-01,BR0010,Inactive
+CUST00623,Kamal,De Silva,1986-05-31,Male,Trincomalee,Accountant,2025-03-13,BR0015,Active
+CUST00624,Chathura,Senanayake,1970-02-25,Male,Matara,Nurse,2021-07-08,BR0013,Inactive
+CUST00625,Nuwan,Bandara,1962-03-27,Male,Ratnapura,Self Employed,2022-04-07,BR0015,Active
+CUST00626,Kasun,Gunawardena,1974-09-17,Male,Kandy,Engineer,2025-01-14,BR0012,Active
+CUST00627,Kavindi,De Silva,2005-11-26,Male,Badulla,Nurse,2024-04-07,BR0002,Active
+CUST00628,Nuwan,Rajapaksha,1973-06-19,Male,Galle,Accountant,2020-07-29,BR0014,Inactive
+CUST00629,Kasun,Bandara,1985-11-27,Male,Kandy,Accountant,2022-04-10,BR0001,Inactive
+CUST00630,Amal,Bandara,2004-08-23,Female,Trincomalee,Teacher,2025-07-14,BR0008,Active
+CUST00631,Sanduni,Bandara,2000-09-15,Female,Ratnapura,Engineer,2020-01-27,BR0008,Inactive
+CUST00632,Sanduni,Senanayake,1978-08-17,Male,Galle,Accountant,2020-08-13,BR0012,Active
+CUST00633,Kamal,Perera,1986-10-10,Female,Kandy,Teacher,2021-03-22,BR0014,Active
+CUST00634,Kamal,Wickramasinghe,1975-12-01,Female,Matara,Software Developer,2020-05-26,BR0003,Inactive
+CUST00635,Nuwan,Gunawardena,1993-12-30,Male,Badulla,Nurse,2020-09-22,BR0010,Inactive
+CUST00636,Kamal,Silva,1984-08-14,Female,Trincomalee,Student,2025-11-18,BR0007,Active
+CUST00637,Sanduni,Perera,1969-10-21,Male,Ratnapura,Self Employed,2023-03-22,BR0014,Inactive
+CUST00638,Kasun,Senanayake,1991-09-30,Male,Matara,Self Employed,2025-07-26,BR0017,Inactive
+CUST00639,Dinushi,Fernando,1980-11-16,Female,Jaffna,Teacher,2021-04-29,BR0001,Inactive
+CUST00640,Ishara,Silva,1978-08-07,Female,Badulla,Teacher,2023-09-29,BR0012,Active
+CUST00641,Amal,Jayasinghe,1985-04-07,Female,Kandy,Business Owner,2023-05-14,BR0017,Inactive
+CUST00642,Amal,Silva,1989-11-25,Female,Badulla,Self Employed,2020-04-29,BR0006,Active
+CUST00643,Nuwan,Gunawardena,2002-12-25,Female,Colombo,Accountant,2025-05-26,BR0005,Inactive
+CUST00644,Kavindi,Gunawardena,2001-06-28,Female,Colombo,Nurse,2023-05-11,BR0019,Inactive
+CUST00645,Kavindi,Senanayake,1961-09-05,Male,Matara,Software Developer,2023-12-19,BR0003,Active
+CUST00646,Kasun,Perera,1990-06-05,Female,Trincomalee,Accountant,2024-05-14,BR0006,Active
+CUST00647,Kasun,Gunawardena,1962-11-02,Female,Badulla,Engineer,2025-07-28,BR0008,Inactive
+CUST00648,Dinushi,Wickramasinghe,1979-05-23,Female,Galle,Engineer,2024-03-12,BR0002,Active
+CUST00649,Nimal,Bandara,2005-05-24,Male,Ratnapura,Nurse,2021-09-23,BR0007,Inactive
+CUST00650,Dinushi,Senanayake,1987-11-04,Female,Galle,Engineer,2025-10-15,BR0005,Active
+CUST00651,Chathura,Perera,2001-03-18,Female,Trincomalee,Engineer,2020-01-17,BR0010,Active
+CUST00652,Ishara,Rajapaksha,1967-10-24,Female,Ratnapura,Teacher,2021-02-26,BR0017,Inactive
+CUST00653,Amal,Rajapaksha,1988-01-02,Male,Anuradhapura,Doctor,2022-02-27,BR0010,Inactive
+CUST00654,Kavindi,Gunawardena,1999-07-29,Male,Kurunegala,Accountant,2021-10-07,BR0009,Active
+CUST00655,Amal,Rajapaksha,1969-03-08,Male,Trincomalee,Software Developer,2023-07-28,BR0009,Active
+CUST00656,Chathura,Wickramasinghe,1981-12-18,Male,Kandy,Business Owner,2023-10-19,BR0018,Inactive
+CUST00657,Amal,Fernando,1962-08-08,Female,Colombo,Engineer,2024-04-20,BR0002,Active
+CUST00658,Tharushi,De Silva,1976-01-21,Female,Matara,Software Developer,2023-07-03,BR0011,Active
+CUST00659,Chathura,Senanayake,1967-01-17,Female,Matara,Accountant,2021-01-15,BR0015,Active
+CUST00660,Dinushi,Wickramasinghe,2001-10-02,Female,Jaffna,Doctor,2021-08-11,BR0020,Inactive
+CUST00661,Nuwan,De Silva,1976-06-13,Female,Anuradhapura,Manager,2025-06-19,BR0001,Active
+CUST00662,Dinushi,Silva,1991-07-13,Female,Ratnapura,Accountant,2023-03-02,BR0012,Active
+CUST00663,Kavindi,Silva,1996-05-24,Male,Anuradhapura,Nurse,2020-10-17,BR0010,Inactive
+CUST00664,Tharushi,Rajapaksha,1997-02-02,Male,Matara,Doctor,2021-10-13,BR0016,Inactive
+CUST00665,Nimal,Gunawardena,1978-09-06,Female,Badulla,Self Employed,2023-11-02,BR0018,Active
+CUST00666,Kamal,Silva,2003-08-28,Male,Matara,Self Employed,2025-03-11,BR0011,Active
+CUST00667,Dinushi,Fernando,1987-08-20,Female,Kandy,Self Employed,2021-03-21,BR0020,Inactive
+CUST00668,Nuwan,Bandara,1965-07-07,Male,Jaffna,Accountant,2020-01-01,BR0005,Active
+CUST00669,Dinushi,Senanayake,1986-02-24,Female,Matara,Self Employed,2025-01-05,BR0007,Active
+CUST00670,Ishara,Gunawardena,1986-11-21,Female,Badulla,Software Developer,2020-12-31,BR0019,Active
+CUST00671,Sanduni,Senanayake,1996-04-05,Male,Kurunegala,Teacher,2024-02-21,BR0018,Active
+CUST00672,Amal,Senanayake,1992-03-24,Male,Kurunegala,Teacher,2022-08-21,BR0014,Inactive
+CUST00673,Ishara,Gunawardena,1994-05-05,Female,Badulla,Student,2022-05-15,BR0006,Inactive
+CUST00674,Kamal,Jayasinghe,1994-07-03,Female,Badulla,Accountant,2023-03-27,BR0005,Active
+CUST00675,Amal,Silva,1961-05-29,Male,Ratnapura,Student,2021-07-10,BR0003,Active
+CUST00676,Ishara,De Silva,2000-11-29,Female,Matara,Accountant,2025-02-04,BR0017,Inactive
+CUST00677,Kavindi,Bandara,1994-07-07,Female,Jaffna,Accountant,2024-10-05,BR0020,Active
+CUST00678,Sanduni,Bandara,1981-03-28,Female,Badulla,Nurse,2024-02-12,BR0002,Active
+CUST00679,Sanduni,Bandara,1993-01-24,Male,Matara,Manager,2020-11-23,BR0005,Inactive
+CUST00680,Dinushi,Senanayake,1967-01-07,Male,Jaffna,Manager,2020-11-15,BR0018,Inactive
+CUST00681,Sanduni,Perera,1990-10-27,Male,Ratnapura,Manager,2025-09-30,BR0016,Inactive
+CUST00682,Tharushi,Gunawardena,1986-06-07,Female,Galle,Teacher,2023-05-30,BR0019,Inactive
+CUST00683,Amal,Bandara,1975-03-03,Male,Kurunegala,Self Employed,2020-04-21,BR0010,Inactive
+CUST00684,Nimal,Fernando,2005-05-11,Male,Kurunegala,Business Owner,2021-06-26,BR0020,Inactive
+CUST00685,Kasun,Wickramasinghe,1961-04-10,Male,Matara,Accountant,2021-09-11,BR0015,Inactive
+CUST00686,Kamal,Wickramasinghe,1981-03-10,Female,Galle,Nurse,2020-05-15,BR0011,Active
+CUST00687,Kamal,Rajapaksha,1973-10-30,Female,Badulla,Student,2022-09-01,BR0015,Active
+CUST00688,Saman,Rajapaksha,1990-12-16,Male,Kurunegala,Engineer,2020-08-03,BR0006,Inactive
+CUST00689,Tharushi,Bandara,1987-01-14,Female,Trincomalee,Doctor,2024-04-04,BR0013,Inactive
+CUST00690,Kasun,Fernando,1999-01-01,Male,Kurunegala,Manager,2024-04-13,BR0011,Active
+CUST00691,Nimal,Senanayake,1991-09-29,Female,Matara,Business Owner,2023-10-04,BR0009,Inactive
+CUST00692,Nimal,Wickramasinghe,1995-02-03,Female,Jaffna,Self Employed,2022-03-09,BR0017,Inactive
+CUST00693,Ishara,Fernando,1988-02-08,Male,Colombo,Engineer,2020-02-18,BR0014,Active
+CUST00694,Kavindi,Silva,2000-01-03,Female,Jaffna,Business Owner,2022-10-28,BR0007,Active
+CUST00695,Amal,Rajapaksha,1968-03-31,Male,Matara,Doctor,2021-05-13,BR0004,Active
+CUST00696,Sanduni,Fernando,1993-09-23,Male,Kandy,Accountant,2022-11-03,BR0010,Inactive
+CUST00697,Ishara,Silva,2000-09-05,Female,Badulla,Software Developer,2022-11-20,BR0006,Active
+CUST00698,Kasun,Perera,1994-05-05,Female,Anuradhapura,Teacher,2022-11-23,BR0009,Active
+CUST00699,Dinushi,Silva,2004-02-11,Male,Matara,Student,2021-12-31,BR0016,Active
+CUST00700,Kamal,Senanayake,1998-09-09,Male,Matara,Engineer,2024-12-13,BR0009,Active
+CUST00701,Amal,Silva,1966-04-26,Female,Ratnapura,Teacher,2025-07-31,BR0005,Active
+CUST00702,Amal,De Silva,1983-11-26,Male,Anuradhapura,Student,2020-01-16,BR0017,Inactive
+CUST00703,Dinushi,De Silva,1996-03-27,Male,Trincomalee,Doctor,2020-01-14,BR0013,Inactive
+CUST00704,Nimal,Rajapaksha,1992-03-14,Female,Kurunegala,Student,2020-08-14,BR0003,Inactive
+CUST00705,Kavindi,Gunawardena,1967-03-21,Female,Kurunegala,Doctor,2021-12-24,BR0018,Active
+CUST00706,Tharushi,Jayasinghe,1986-10-24,Female,Kandy,Software Developer,2025-06-15,BR0003,Inactive
+CUST00707,Chathura,Jayasinghe,1972-07-21,Male,Jaffna,Teacher,2022-09-03,BR0016,Inactive
+CUST00708,Nimal,Senanayake,1987-08-10,Female,Trincomalee,Manager,2020-03-08,BR0002,Inactive
+CUST00709,Amal,Gunawardena,1963-11-03,Female,Kandy,Doctor,2025-11-12,BR0015,Active
+CUST00710,Chathura,Rajapaksha,1980-11-25,Male,Colombo,Accountant,2025-06-25,BR0001,Inactive
+CUST00711,Sanduni,Perera,1981-10-09,Male,Colombo,Accountant,2020-07-23,BR0010,Active
+CUST00712,Dinushi,Rajapaksha,1975-04-25,Male,Kandy,Engineer,2025-07-29,BR0020,Active
+CUST00713,Nimal,Jayasinghe,1998-03-28,Female,Badulla,Software Developer,2021-05-09,BR0019,Active
+CUST00714,Nuwan,Jayasinghe,1964-02-02,Male,Anuradhapura,Engineer,2021-05-09,BR0009,Active
+CUST00715,Tharushi,Fernando,1993-03-09,Male,Ratnapura,Doctor,2020-06-15,BR0005,Active
+CUST00716,Ishara,Rajapaksha,1993-09-29,Male,Colombo,Manager,2020-11-26,BR0001,Active
+CUST00717,Kamal,Silva,1985-06-15,Female,Ratnapura,Accountant,2022-04-24,BR0005,Inactive
+CUST00718,Kavindi,Bandara,1996-12-18,Male,Galle,Self Employed,2020-06-03,BR0020,Active
+CUST00719,Chathura,Bandara,1967-11-24,Female,Anuradhapura,Student,2020-01-19,BR0018,Active
+CUST00720,Saman,Silva,1968-08-01,Female,Trincomalee,Nurse,2022-06-17,BR0015,Active
+CUST00721,Kasun,Perera,1977-05-18,Male,Galle,Manager,2025-07-30,BR0006,Active
+CUST00722,Ishara,Perera,1964-11-05,Female,Kurunegala,Doctor,2024-11-15,BR0009,Inactive
+CUST00723,Sanduni,Bandara,1963-11-20,Male,Colombo,Nurse,2021-12-21,BR0006,Active
+CUST00724,Dinushi,Senanayake,1970-05-31,Male,Jaffna,Manager,2023-08-28,BR0014,Active
+CUST00725,Chathura,Gunawardena,1980-08-21,Male,Anuradhapura,Doctor,2021-02-05,BR0008,Inactive
+CUST00726,Saman,De Silva,1979-10-18,Male,Ratnapura,Self Employed,2025-06-07,BR0002,Inactive
+CUST00727,Kamal,Jayasinghe,2000-10-26,Male,Badulla,Software Developer,2021-07-12,BR0015,Active
+CUST00728,Ishara,Gunawardena,1984-03-12,Male,Anuradhapura,Accountant,2020-05-11,BR0019,Active
+CUST00729,Kasun,Fernando,1969-12-19,Female,Ratnapura,Student,2021-12-02,BR0011,Active
+CUST00730,Kasun,Rajapaksha,1974-01-24,Male,Matara,Nurse,2022-07-29,BR0003,Inactive
+CUST00731,Kavindi,Bandara,1979-06-02,Female,Ratnapura,Business Owner,2020-02-29,BR0014,Active
+CUST00732,Saman,Gunawardena,1998-12-16,Male,Matara,Accountant,2020-01-21,BR0014,Active
+CUST00733,Amal,Bandara,2005-03-27,Male,Badulla,Nurse,2024-06-03,BR0016,Active
+CUST00734,Dinushi,Bandara,1981-07-30,Male,Trincomalee,Teacher,2024-07-23,BR0007,Active
+CUST00735,Nuwan,Wickramasinghe,1981-06-12,Male,Colombo,Manager,2023-06-02,BR0006,Inactive
+CUST00736,Sanduni,Rajapaksha,1962-03-10,Female,Ratnapura,Accountant,2024-07-18,BR0006,Inactive
+CUST00737,Ishara,Bandara,1960-02-14,Male,Badulla,Software Developer,2025-12-14,BR0002,Inactive
+CUST00738,Tharushi,Wickramasinghe,1978-08-01,Male,Matara,Software Developer,2020-08-12,BR0017,Inactive
+CUST00739,Amal,Silva,1994-05-10,Female,Ratnapura,Self Employed,2020-06-16,BR0012,Inactive
+CUST00740,Kamal,Senanayake,1966-01-04,Male,Galle,Software Developer,2022-09-04,BR0018,Active
+CUST00741,Ishara,Bandara,1978-10-27,Male,Anuradhapura,Software Developer,2022-12-31,BR0017,Inactive
+CUST00742,Kasun,Perera,1965-09-07,Female,Anuradhapura,Manager,2025-06-14,BR0017,Active
+CUST00743,Dinushi,Senanayake,1986-03-21,Female,Matara,Software Developer,2020-09-25,BR0007,Inactive
+CUST00744,Nimal,Silva,1995-01-18,Male,Kurunegala,Engineer,2021-03-23,BR0006,Inactive
+CUST00745,Nimal,Fernando,2004-07-11,Male,Jaffna,Nurse,2020-04-02,BR0010,Inactive
+CUST00746,Ishara,Senanayake,1971-11-05,Female,Anuradhapura,Student,2024-12-23,BR0001,Inactive
+CUST00747,Saman,Silva,1961-12-23,Male,Trincomalee,Software Developer,2024-08-13,BR0019,Inactive
+CUST00748,Ishara,Gunawardena,2003-08-13,Female,Ratnapura,Business Owner,2021-06-24,BR0010,Active
+CUST00749,Kasun,Jayasinghe,2003-06-11,Female,Kurunegala,Teacher,2021-08-30,BR0012,Inactive
+CUST00750,Dinushi,Fernando,1974-06-04,Female,Galle,Accountant,2021-09-20,BR0006,Active
+CUST00751,Nimal,Perera,1988-05-28,Male,Ratnapura,Business Owner,2024-02-23,BR0006,Active
+CUST00752,Kavindi,Perera,1988-06-07,Female,Galle,Software Developer,2025-01-10,BR0018,Active
+CUST00753,Kavindi,Wickramasinghe,1970-11-24,Male,Badulla,Manager,2021-08-18,BR0015,Inactive
+CUST00754,Kamal,Perera,2005-07-09,Female,Kurunegala,Manager,2023-04-02,BR0019,Active
+CUST00755,Sanduni,Bandara,1990-05-21,Male,Ratnapura,Teacher,2021-07-25,BR0018,Active
+CUST00756,Kasun,Perera,1996-01-12,Male,Ratnapura,Software Developer,2021-01-13,BR0011,Active
+CUST00757,Sanduni,Jayasinghe,1979-12-06,Female,Jaffna,Teacher,2020-12-08,BR0018,Inactive
+CUST00758,Ishara,Silva,2005-11-30,Female,Jaffna,Manager,2023-07-25,BR0020,Active
+CUST00759,Ishara,Gunawardena,1995-09-01,Male,Badulla,Software Developer,2024-04-30,BR0012,Active
+CUST00760,Kasun,Gunawardena,1991-07-10,Female,Ratnapura,Nurse,2020-12-24,BR0007,Inactive
+CUST00761,Chathura,De Silva,1999-09-12,Female,Galle,Student,2024-08-23,BR0005,Active
+CUST00762,Kamal,Jayasinghe,1987-03-16,Female,Trincomalee,Software Developer,2020-09-27,BR0019,Inactive
+CUST00763,Nimal,Perera,1996-09-25,Female,Badulla,Accountant,2025-03-07,BR0019,Active
+CUST00764,Saman,Fernando,1994-04-01,Female,Trincomalee,Manager,2020-06-21,BR0010,Inactive
+CUST00765,Dinushi,Senanayake,2001-07-30,Male,Colombo,Teacher,2021-09-22,BR0009,Inactive
+CUST00766,Ishara,Bandara,1971-02-21,Female,Badulla,Accountant,2025-07-07,BR0008,Active
+CUST00767,Nimal,Wickramasinghe,2004-03-26,Male,Matara,Software Developer,2025-05-22,BR0019,Inactive
+CUST00768,Kasun,Bandara,1970-09-23,Female,Trincomalee,Self Employed,2020-03-12,BR0009,Active
+CUST00769,Sanduni,Perera,1973-02-09,Female,Ratnapura,Accountant,2024-01-03,BR0006,Active
+CUST00770,Kasun,Gunawardena,1997-08-20,Female,Colombo,Business Owner,2023-04-09,BR0017,Active
+CUST00771,Kavindi,Jayasinghe,1976-06-09,Male,Matara,Accountant,2023-08-14,BR0011,Inactive
+CUST00772,Kasun,Gunawardena,1968-08-06,Female,Galle,Teacher,2021-07-14,BR0017,Inactive
+CUST00773,Nuwan,Bandara,1996-12-17,Female,Galle,Engineer,2022-06-11,BR0005,Active
+CUST00774,Saman,Senanayake,1970-03-23,Female,Ratnapura,Engineer,2021-04-22,BR0005,Active
+CUST00775,Dinushi,Gunawardena,1987-12-14,Female,Galle,Manager,2025-11-12,BR0011,Active
+CUST00776,Chathura,Wickramasinghe,1962-07-31,Male,Jaffna,Accountant,2021-08-06,BR0008,Inactive
+CUST00777,Kamal,Jayasinghe,1971-09-06,Male,Badulla,Engineer,2020-11-14,BR0001,Inactive
+CUST00778,Tharushi,Perera,1977-08-13,Male,Colombo,Nurse,2020-08-30,BR0016,Active
+CUST00779,Kasun,Perera,1965-12-10,Female,Colombo,Engineer,2021-05-22,BR0020,Active
+CUST00780,Sanduni,Jayasinghe,1976-07-29,Female,Colombo,Engineer,2021-08-19,BR0009,Inactive
+CUST00781,Nuwan,Fernando,2004-11-29,Male,Trincomalee,Self Employed,2020-10-06,BR0004,Active
+CUST00782,Kavindi,Jayasinghe,1977-03-08,Female,Galle,Nurse,2020-01-18,BR0004,Active
+CUST00783,Kavindi,Bandara,1992-11-16,Male,Ratnapura,Engineer,2022-01-10,BR0012,Inactive
+CUST00784,Tharushi,Jayasinghe,1980-05-31,Female,Kandy,Software Developer,2021-05-21,BR0015,Active
+CUST00785,Kavindi,Fernando,2004-06-24,Female,Kurunegala,Nurse,2020-06-15,BR0003,Inactive
+CUST00786,Dinushi,Silva,1994-07-09,Female,Ratnapura,Self Employed,2023-07-01,BR0015,Active
+CUST00787,Kavindi,De Silva,1986-01-26,Female,Jaffna,Engineer,2025-05-02,BR0012,Active
+CUST00788,Amal,Bandara,1969-06-08,Female,Ratnapura,Nurse,2020-12-14,BR0004,Active
+CUST00789,Tharushi,De Silva,1969-02-15,Male,Kandy,Software Developer,2022-03-26,BR0011,Active
+CUST00790,Sanduni,De Silva,1971-01-05,Male,Badulla,Manager,2023-02-14,BR0019,Inactive
+CUST00791,Ishara,De Silva,1991-12-12,Female,Matara,Student,2025-06-07,BR0017,Inactive
+CUST00792,Kamal,Bandara,1969-09-10,Male,Kurunegala,Manager,2025-07-29,BR0008,Active
+CUST00793,Amal,Silva,1964-09-27,Male,Ratnapura,Teacher,2022-01-03,BR0013,Inactive
+CUST00794,Kamal,Wickramasinghe,1968-08-22,Male,Trincomalee,Manager,2025-03-23,BR0007,Inactive
+CUST00795,Ishara,Bandara,2003-12-25,Female,Trincomalee,Software Developer,2020-03-13,BR0002,Inactive
+CUST00796,Nimal,De Silva,2000-05-19,Female,Badulla,Manager,2025-02-25,BR0002,Active
+CUST00797,Kamal,Senanayake,1987-03-10,Male,Ratnapura,Student,2021-07-04,BR0010,Inactive
+CUST00798,Dinushi,Silva,2004-01-04,Female,Ratnapura,Nurse,2021-10-02,BR0017,Active
+CUST00799,Tharushi,Wickramasinghe,2004-05-19,Female,Matara,Software Developer,2023-03-11,BR0011,Active
+CUST00800,Amal,Rajapaksha,1964-01-18,Male,Anuradhapura,Software Developer,2020-04-20,BR0011,Inactive
+CUST00801,Nimal,De Silva,1990-12-18,Female,Badulla,Software Developer,2020-08-19,BR0008,Active
+CUST00802,Saman,Wickramasinghe,1967-08-15,Male,Kurunegala,Engineer,2023-10-14,BR0006,Active
+CUST00803,Kavindi,Gunawardena,1963-05-09,Female,Badulla,Self Employed,2025-10-09,BR0014,Inactive
+CUST00804,Amal,Bandara,1961-12-29,Female,Badulla,Self Employed,2024-05-17,BR0011,Active
+CUST00805,Dinushi,Silva,1978-06-22,Female,Ratnapura,Nurse,2023-10-22,BR0006,Inactive
+CUST00806,Nuwan,De Silva,1978-02-06,Female,Kandy,Nurse,2022-05-26,BR0010,Inactive
+CUST00807,Amal,Wickramasinghe,1996-01-25,Male,Matara,Engineer,2021-01-23,BR0019,Inactive
+CUST00808,Kasun,Silva,2002-08-21,Female,Jaffna,Software Developer,2020-11-10,BR0010,Inactive
+CUST00809,Tharushi,Senanayake,1988-02-10,Male,Badulla,Student,2022-10-26,BR0020,Inactive
+CUST00810,Ishara,Senanayake,1976-03-14,Male,Trincomalee,Accountant,2025-08-06,BR0007,Inactive
+CUST00811,Kasun,Senanayake,1998-11-29,Male,Trincomalee,Doctor,2024-02-01,BR0015,Active
+CUST00812,Saman,Fernando,1986-12-09,Female,Badulla,Software Developer,2020-09-20,BR0007,Inactive
+CUST00813,Kasun,Wickramasinghe,1974-05-29,Female,Matara,Doctor,2024-07-20,BR0008,Active
+CUST00814,Kamal,Jayasinghe,1962-06-26,Male,Kurunegala,Manager,2025-06-11,BR0018,Inactive
+CUST00815,Tharushi,Perera,1978-02-13,Male,Kurunegala,Accountant,2020-04-29,BR0009,Inactive
+CUST00816,Ishara,Senanayake,1975-10-15,Male,Ratnapura,Teacher,2020-08-14,BR0003,Inactive
+CUST00817,Sanduni,Wickramasinghe,1965-09-14,Female,Anuradhapura,Engineer,2024-06-13,BR0005,Active
+CUST00818,Nimal,Rajapaksha,2004-11-17,Male,Trincomalee,Self Employed,2025-11-21,BR0009,Inactive
+CUST00819,Nimal,Jayasinghe,1970-12-20,Female,Anuradhapura,Self Employed,2024-05-16,BR0008,Inactive
+CUST00820,Saman,Fernando,1969-08-01,Male,Jaffna,Business Owner,2024-12-05,BR0014,Inactive
+CUST00821,Sanduni,Perera,2003-12-29,Female,Kandy,Software Developer,2024-10-01,BR0016,Active
+CUST00822,Kasun,Fernando,1992-07-25,Female,Anuradhapura,Business Owner,2020-03-27,BR0020,Active
+CUST00823,Chathura,Perera,1981-07-02,Female,Trincomalee,Student,2023-06-20,BR0012,Active
+CUST00824,Kavindi,Jayasinghe,1999-09-09,Female,Colombo,Student,2022-11-12,BR0010,Active
+CUST00825,Saman,Wickramasinghe,1978-11-15,Male,Ratnapura,Software Developer,2024-07-22,BR0002,Inactive
+CUST00826,Nimal,Bandara,2002-04-06,Female,Anuradhapura,Student,2021-02-15,BR0006,Inactive
+CUST00827,Kavindi,Silva,1991-07-26,Female,Matara,Nurse,2023-08-31,BR0015,Active
+CUST00828,Amal,Fernando,1999-10-12,Male,Colombo,Student,2022-03-30,BR0010,Inactive
+CUST00829,Sanduni,Silva,1969-12-10,Male,Jaffna,Nurse,2021-06-16,BR0020,Inactive
+CUST00830,Nuwan,Bandara,2002-12-01,Male,Kurunegala,Accountant,2023-09-03,BR0010,Active
+CUST00831,Nimal,De Silva,1992-12-23,Male,Badulla,Student,2022-07-08,BR0001,Active
+CUST00832,Kavindi,Rajapaksha,1980-07-08,Male,Ratnapura,Doctor,2022-12-08,BR0006,Active
+CUST00833,Tharushi,Rajapaksha,1998-06-24,Female,Galle,Engineer,2024-02-16,BR0006,Active
+CUST00834,Amal,Senanayake,1999-01-15,Female,Ratnapura,Engineer,2022-07-08,BR0007,Active
+CUST00835,Kasun,Wickramasinghe,2004-05-01,Female,Galle,Student,2022-04-26,BR0020,Active
+CUST00836,Kasun,Jayasinghe,1997-07-12,Male,Badulla,Accountant,2020-04-27,BR0010,Inactive
+CUST00837,Saman,Rajapaksha,2000-06-16,Male,Anuradhapura,Self Employed,2025-02-19,BR0003,Active
+CUST00838,Dinushi,Fernando,1988-12-31,Female,Jaffna,Student,2024-09-29,BR0020,Inactive
+CUST00839,Nimal,Silva,1965-04-09,Male,Anuradhapura,Doctor,2025-04-12,BR0012,Active
+CUST00840,Amal,Wickramasinghe,2005-04-06,Female,Kurunegala,Student,2024-02-28,BR0005,Active
+CUST00841,Sanduni,Fernando,1983-05-09,Male,Trincomalee,Manager,2023-10-21,BR0015,Active
+CUST00842,Nimal,Gunawardena,1998-11-03,Male,Kurunegala,Engineer,2023-07-07,BR0002,Active
+CUST00843,Dinushi,Wickramasinghe,1992-05-07,Female,Kurunegala,Business Owner,2022-12-16,BR0017,Inactive
+CUST00844,Tharushi,Fernando,1988-04-22,Female,Galle,Nurse,2024-12-07,BR0002,Active
+CUST00845,Kamal,Perera,1980-08-15,Male,Colombo,Manager,2022-12-01,BR0006,Inactive
+CUST00846,Tharushi,Silva,2004-05-26,Male,Ratnapura,Software Developer,2025-06-10,BR0015,Inactive
+CUST00847,Nimal,Fernando,1971-02-03,Female,Kandy,Doctor,2023-03-09,BR0006,Active
+CUST00848,Chathura,Senanayake,1984-06-21,Male,Matara,Teacher,2025-11-24,BR0019,Active
+CUST00849,Tharushi,Silva,1982-01-31,Female,Kandy,Software Developer,2020-04-16,BR0010,Active
+CUST00850,Tharushi,Gunawardena,1969-07-07,Female,Galle,Teacher,2020-11-28,BR0015,Inactive
+CUST00851,Dinushi,Wickramasinghe,1960-07-09,Female,Colombo,Self Employed,2025-01-29,BR0011,Active
+CUST00852,Saman,Perera,1985-05-20,Female,Colombo,Engineer,2024-04-11,BR0003,Inactive
+CUST00853,Kasun,Fernando,1981-07-15,Female,Kandy,Teacher,2022-05-02,BR0006,Inactive
+CUST00854,Tharushi,Wickramasinghe,1973-10-29,Male,Kurunegala,Manager,2024-11-05,BR0010,Active
+CUST00855,Nuwan,Silva,1992-12-18,Male,Ratnapura,Manager,2024-05-08,BR0016,Inactive
+CUST00856,Sanduni,Rajapaksha,1997-12-15,Male,Badulla,Software Developer,2022-02-02,BR0014,Inactive
+CUST00857,Nimal,Perera,1990-08-29,Female,Jaffna,Accountant,2025-07-21,BR0017,Active
+CUST00858,Kasun,Bandara,1999-03-28,Male,Ratnapura,Business Owner,2021-08-31,BR0005,Inactive
+CUST00859,Saman,Senanayake,1998-05-16,Female,Matara,Teacher,2020-11-09,BR0002,Active
+CUST00860,Kavindi,De Silva,1997-01-19,Male,Ratnapura,Self Employed,2022-11-03,BR0012,Inactive
+CUST00861,Sanduni,Silva,2005-03-01,Male,Kandy,Manager,2022-01-05,BR0006,Inactive
+CUST00862,Amal,Silva,1997-05-05,Female,Anuradhapura,Self Employed,2025-02-06,BR0015,Inactive
+CUST00863,Nuwan,Fernando,1978-12-08,Male,Kandy,Self Employed,2022-11-28,BR0004,Inactive
+CUST00864,Kavindi,Perera,1960-07-10,Female,Kandy,Teacher,2021-12-04,BR0016,Inactive
+CUST00865,Chathura,De Silva,2003-08-31,Female,Matara,Self Employed,2024-01-17,BR0013,Inactive
+CUST00866,Nimal,Fernando,1972-02-14,Male,Jaffna,Engineer,2020-03-06,BR0007,Active
+CUST00867,Saman,Bandara,1973-01-08,Male,Badulla,Nurse,2022-02-20,BR0003,Inactive
+CUST00868,Dinushi,Fernando,2002-07-10,Female,Colombo,Engineer,2021-11-11,BR0005,Inactive
+CUST00869,Dinushi,Bandara,1961-10-05,Female,Matara,Doctor,2022-04-04,BR0010,Inactive
+CUST00870,Amal,Gunawardena,1960-09-15,Male,Badulla,Student,2025-07-23,BR0019,Inactive
+CUST00871,Amal,Bandara,1995-11-09,Female,Trincomalee,Self Employed,2025-06-21,BR0008,Active
+CUST00872,Kavindi,Perera,1997-11-10,Female,Trincomalee,Engineer,2023-01-02,BR0014,Inactive
+CUST00873,Nimal,Bandara,1991-02-09,Female,Badulla,Teacher,2021-10-22,BR0010,Active
+CUST00874,Dinushi,Gunawardena,1999-04-22,Male,Trincomalee,Doctor,2023-10-21,BR0020,Inactive
+CUST00875,Kamal,Wickramasinghe,1995-01-08,Female,Anuradhapura,Manager,2021-10-25,BR0020,Active
+CUST00876,Kasun,Silva,2003-04-28,Male,Galle,Doctor,2021-10-02,BR0020,Inactive
+CUST00877,Nimal,De Silva,2004-04-17,Female,Jaffna,Doctor,2020-07-11,BR0001,Inactive
+CUST00878,Kasun,Gunawardena,1974-03-25,Male,Trincomalee,Teacher,2020-09-17,BR0011,Inactive
+CUST00879,Nimal,Rajapaksha,1980-05-03,Male,Trincomalee,Doctor,2025-06-15,BR0009,Inactive
+CUST00880,Nuwan,Perera,1983-12-31,Male,Trincomalee,Self Employed,2021-03-02,BR0002,Inactive
+CUST00881,Dinushi,Silva,1969-07-01,Male,Trincomalee,Teacher,2025-09-08,BR0004,Active
+CUST00882,Ishara,Silva,1978-06-05,Female,Galle,Business Owner,2024-12-13,BR0017,Inactive
+CUST00883,Chathura,Silva,1973-11-03,Female,Anuradhapura,Accountant,2021-05-18,BR0007,Inactive
+CUST00884,Tharushi,Perera,1982-01-03,Female,Anuradhapura,Business Owner,2025-08-30,BR0006,Active
+CUST00885,Kasun,Gunawardena,1997-03-26,Female,Jaffna,Accountant,2025-12-09,BR0014,Active
+CUST00886,Kamal,De Silva,1997-02-01,Female,Ratnapura,Nurse,2024-01-21,BR0001,Inactive
+CUST00887,Kamal,Perera,1966-03-30,Male,Anuradhapura,Software Developer,2024-07-03,BR0006,Inactive
+CUST00888,Amal,De Silva,1963-04-30,Male,Matara,Teacher,2025-10-30,BR0010,Inactive
+CUST00889,Tharushi,Senanayake,1987-04-21,Female,Anuradhapura,Teacher,2023-02-19,BR0017,Active
+CUST00890,Chathura,De Silva,2000-01-11,Male,Trincomalee,Self Employed,2024-12-16,BR0012,Inactive
+CUST00891,Saman,Wickramasinghe,1967-07-24,Male,Trincomalee,Software Developer,2024-05-16,BR0005,Inactive
+CUST00892,Saman,Silva,2005-11-26,Female,Trincomalee,Software Developer,2021-10-17,BR0001,Active
+CUST00893,Kavindi,Rajapaksha,1983-03-17,Male,Kurunegala,Student,2025-08-31,BR0004,Active
+CUST00894,Nuwan,Wickramasinghe,2005-07-12,Female,Kandy,Teacher,2021-05-25,BR0015,Inactive
+CUST00895,Sanduni,Perera,2000-08-26,Female,Jaffna,Self Employed,2025-12-24,BR0020,Active
+CUST00896,Nuwan,Wickramasinghe,1985-07-11,Male,Badulla,Nurse,2022-10-11,BR0004,Inactive
+CUST00897,Kavindi,Rajapaksha,1977-04-10,Female,Ratnapura,Engineer,2021-08-23,BR0014,Inactive
+CUST00898,Nimal,Silva,1965-07-30,Female,Galle,Manager,2022-05-29,BR0015,Active
+CUST00899,Nuwan,Senanayake,1996-02-18,Female,Kurunegala,Self Employed,2025-08-05,BR0014,Inactive
+CUST00900,Chathura,Bandara,1997-05-27,Male,Galle,Nurse,2021-06-04,BR0016,Inactive
+CUST00901,Kamal,Senanayake,1970-08-04,Male,Ratnapura,Manager,2020-05-13,BR0006,Inactive
+CUST00902,Nimal,Rajapaksha,1996-08-28,Male,Kandy,Software Developer,2023-04-01,BR0002,Active
+CUST00903,Nimal,Gunawardena,1987-05-10,Female,Kurunegala,Business Owner,2025-06-13,BR0001,Active
+CUST00904,Kamal,Rajapaksha,1997-11-02,Male,Kurunegala,Business Owner,2022-06-02,BR0006,Inactive
+CUST00905,Amal,Silva,1991-04-12,Male,Colombo,Student,2025-05-24,BR0019,Inactive
+CUST00906,Sanduni,Bandara,1990-04-22,Female,Ratnapura,Self Employed,2021-06-27,BR0005,Inactive
+CUST00907,Dinushi,Bandara,1973-05-13,Female,Kandy,Self Employed,2024-08-04,BR0013,Active
+CUST00908,Tharushi,Gunawardena,1964-02-10,Female,Kurunegala,Engineer,2021-11-09,BR0001,Inactive
+CUST00909,Kavindi,Silva,1967-08-22,Male,Matara,Nurse,2020-08-04,BR0019,Active
+CUST00910,Dinushi,Senanayake,1961-09-03,Male,Trincomalee,Accountant,2020-03-18,BR0009,Active
+CUST00911,Saman,Rajapaksha,1999-11-08,Male,Trincomalee,Self Employed,2023-08-05,BR0013,Active
+CUST00912,Dinushi,Perera,1990-07-01,Female,Galle,Student,2020-04-08,BR0017,Inactive
+CUST00913,Tharushi,Wickramasinghe,1968-03-01,Male,Kandy,Nurse,2021-11-19,BR0010,Active
+CUST00914,Kamal,Wickramasinghe,1968-01-15,Male,Kurunegala,Student,2021-11-24,BR0002,Inactive
+CUST00915,Kamal,Perera,1965-03-31,Female,Badulla,Engineer,2023-08-03,BR0005,Inactive
+CUST00916,Nuwan,Wickramasinghe,1993-09-08,Male,Colombo,Doctor,2022-09-08,BR0020,Active
+CUST00917,Dinushi,Senanayake,2005-04-02,Female,Kandy,Business Owner,2020-09-05,BR0011,Inactive
+CUST00918,Kavindi,De Silva,1965-11-14,Female,Colombo,Student,2022-08-15,BR0001,Inactive
+CUST00919,Kavindi,Rajapaksha,1969-02-08,Male,Trincomalee,Accountant,2023-06-01,BR0019,Inactive
+CUST00920,Dinushi,Silva,2004-11-23,Male,Galle,Software Developer,2021-11-19,BR0008,Inactive
+CUST00921,Kavindi,Bandara,1963-10-01,Male,Ratnapura,Self Employed,2023-03-30,BR0006,Active
+CUST00922,Amal,Bandara,1984-07-08,Female,Badulla,Software Developer,2022-05-21,BR0019,Inactive
+CUST00923,Amal,Fernando,1966-04-10,Female,Kandy,Student,2021-05-18,BR0005,Inactive
+CUST00924,Tharushi,Jayasinghe,2005-04-15,Female,Anuradhapura,Business Owner,2025-01-28,BR0009,Active
+CUST00925,Ishara,Gunawardena,1990-08-25,Male,Ratnapura,Self Employed,2023-09-07,BR0001,Active
+CUST00926,Ishara,Perera,2002-10-01,Male,Colombo,Accountant,2024-08-19,BR0018,Inactive
+CUST00927,Tharushi,Senanayake,1967-04-13,Male,Trincomalee,Teacher,2024-12-28,BR0004,Inactive
+CUST00928,Tharushi,Rajapaksha,1992-02-11,Female,Galle,Teacher,2021-05-26,BR0015,Inactive
+CUST00929,Saman,Bandara,1960-11-02,Male,Colombo,Business Owner,2024-01-05,BR0007,Active
+CUST00930,Sanduni,Wickramasinghe,1979-11-03,Male,Ratnapura,Software Developer,2020-05-30,BR0009,Inactive
+CUST00931,Chathura,Rajapaksha,1978-10-04,Male,Jaffna,Student,2021-03-30,BR0009,Inactive
+CUST00932,Kamal,Senanayake,1977-05-20,Male,Kandy,Self Employed,2021-06-09,BR0003,Active
+CUST00933,Kasun,Rajapaksha,1980-06-13,Female,Jaffna,Teacher,2025-12-22,BR0020,Inactive
+CUST00934,Ishara,Senanayake,2000-09-21,Male,Badulla,Teacher,2023-08-16,BR0014,Inactive
+CUST00935,Kasun,Silva,2001-11-10,Female,Anuradhapura,Nurse,2020-06-27,BR0008,Active
+CUST00936,Kasun,De Silva,2000-04-08,Female,Colombo,Student,2022-03-08,BR0011,Active
+CUST00937,Sanduni,Perera,1980-03-29,Female,Kandy,Doctor,2022-03-17,BR0006,Inactive
+CUST00938,Kasun,Silva,1968-09-04,Male,Ratnapura,Student,2020-04-08,BR0019,Inactive
+CUST00939,Kasun,Jayasinghe,1969-09-03,Female,Jaffna,Software Developer,2020-08-10,BR0011,Active
+CUST00940,Nimal,Rajapaksha,1999-05-05,Male,Ratnapura,Self Employed,2021-05-26,BR0003,Active
+CUST00941,Amal,De Silva,1988-02-08,Male,Galle,Teacher,2024-12-15,BR0002,Inactive
+CUST00942,Sanduni,De Silva,1965-11-25,Male,Colombo,Nurse,2020-08-01,BR0010,Inactive
+CUST00943,Tharushi,Silva,1996-11-18,Male,Matara,Self Employed,2020-02-13,BR0015,Inactive
+CUST00944,Dinushi,De Silva,1969-01-31,Female,Colombo,Manager,2025-10-19,BR0011,Active
+CUST00945,Nimal,Silva,1961-02-06,Male,Matara,Doctor,2021-05-31,BR0017,Inactive
+CUST00946,Nuwan,De Silva,2003-03-10,Female,Galle,Doctor,2021-07-17,BR0002,Active
+CUST00947,Kamal,Wickramasinghe,1999-02-06,Female,Kurunegala,Self Employed,2021-08-19,BR0005,Inactive
+CUST00948,Kasun,Rajapaksha,1990-10-06,Female,Anuradhapura,Teacher,2025-10-21,BR0019,Active
+CUST00949,Amal,Jayasinghe,2005-06-29,Male,Badulla,Software Developer,2022-03-11,BR0007,Active
+CUST00950,Nimal,Gunawardena,1976-12-26,Female,Ratnapura,Self Employed,2023-09-18,BR0019,Inactive
+CUST00951,Sanduni,Wickramasinghe,1997-07-24,Female,Galle,Engineer,2025-02-03,BR0002,Inactive
+CUST00952,Saman,Perera,1980-01-04,Male,Ratnapura,Self Employed,2022-05-23,BR0008,Inactive
+CUST00953,Chathura,Gunawardena,1993-09-21,Male,Badulla,Accountant,2020-01-28,BR0012,Active
+CUST00954,Nimal,Gunawardena,1962-09-10,Male,Galle,Business Owner,2024-12-08,BR0007,Inactive
+CUST00955,Amal,Perera,1977-11-11,Male,Kurunegala,Accountant,2022-06-15,BR0009,Active
+CUST00956,Nuwan,Senanayake,1982-01-24,Male,Jaffna,Teacher,2021-12-22,BR0009,Active
+CUST00957,Amal,Fernando,1993-12-29,Male,Anuradhapura,Doctor,2023-06-03,BR0015,Active
+CUST00958,Nuwan,Gunawardena,1975-05-17,Female,Kandy,Engineer,2021-08-14,BR0005,Active
+CUST00959,Saman,Senanayake,1993-12-05,Female,Anuradhapura,Self Employed,2024-10-25,BR0008,Active
+CUST00960,Sanduni,Rajapaksha,1976-12-18,Female,Galle,Software Developer,2022-10-09,BR0002,Inactive
+CUST00961,Kamal,Senanayake,2003-11-14,Male,Kandy,Manager,2020-09-22,BR0006,Inactive
+CUST00962,Ishara,Senanayake,1993-07-29,Female,Trincomalee,Manager,2022-01-03,BR0011,Inactive
+CUST00963,Kavindi,Bandara,2004-05-22,Female,Kurunegala,Self Employed,2024-06-30,BR0019,Active
+CUST00964,Saman,Jayasinghe,1978-03-18,Female,Jaffna,Student,2022-06-14,BR0010,Inactive
+CUST00965,Tharushi,Rajapaksha,1974-02-07,Female,Kurunegala,Nurse,2020-12-13,BR0005,Active
+CUST00966,Kasun,Bandara,1991-07-17,Male,Matara,Teacher,2025-03-20,BR0017,Inactive
+CUST00967,Tharushi,Bandara,2001-12-11,Female,Badulla,Software Developer,2025-07-30,BR0011,Inactive
+CUST00968,Tharushi,Perera,1976-02-10,Female,Jaffna,Business Owner,2020-11-06,BR0012,Active
+CUST00969,Kasun,Senanayake,1967-01-05,Female,Jaffna,Engineer,2021-04-30,BR0003,Inactive
+CUST00970,Amal,Senanayake,1977-12-20,Female,Jaffna,Software Developer,2022-10-21,BR0010,Inactive
+CUST00971,Saman,Rajapaksha,1972-05-14,Female,Colombo,Business Owner,2023-02-28,BR0012,Inactive
+CUST00972,Tharushi,Rajapaksha,1961-01-24,Female,Trincomalee,Accountant,2024-06-16,BR0008,Active
+CUST00973,Chathura,Jayasinghe,2002-07-25,Male,Trincomalee,Self Employed,2025-04-03,BR0015,Inactive
+CUST00974,Nimal,Gunawardena,1976-11-07,Female,Badulla,Doctor,2024-12-01,BR0015,Active
+CUST00975,Nuwan,Fernando,1971-07-07,Female,Colombo,Manager,2023-12-23,BR0011,Active
+CUST00976,Tharushi,De Silva,1996-03-09,Female,Anuradhapura,Self Employed,2020-04-05,BR0019,Active
+CUST00977,Kamal,Fernando,1989-08-17,Female,Badulla,Doctor,2024-05-19,BR0003,Inactive
+CUST00978,Saman,Bandara,1969-09-29,Female,Matara,Manager,2023-06-01,BR0003,Active
+CUST00979,Nimal,Senanayake,1975-12-08,Male,Matara,Manager,2020-04-19,BR0006,Active
+CUST00980,Nimal,De Silva,1985-06-18,Male,Jaffna,Business Owner,2025-11-17,BR0003,Inactive
+CUST00981,Amal,Gunawardena,1960-12-27,Male,Anuradhapura,Student,2024-05-20,BR0006,Active
+CUST00982,Kamal,Senanayake,1997-07-15,Female,Kandy,Student,2022-04-25,BR0005,Active
+CUST00983,Kasun,De Silva,2002-08-05,Male,Matara,Self Employed,2023-06-25,BR0019,Active
+CUST00984,Kavindi,Bandara,1984-09-16,Male,Colombo,Accountant,2024-12-30,BR0003,Inactive
+CUST00985,Sanduni,Jayasinghe,1989-07-04,Female,Ratnapura,Manager,2020-06-09,BR0003,Inactive
+CUST00986,Ishara,Bandara,1991-02-10,Female,Badulla,Self Employed,2021-12-18,BR0014,Active
+CUST00987,Kamal,Rajapaksha,1998-10-06,Female,Badulla,Accountant,2021-01-26,BR0013,Active
+CUST00988,Saman,Fernando,1984-07-24,Female,Kandy,Doctor,2025-07-14,BR0014,Active
+CUST00989,Nuwan,Silva,1969-06-09,Female,Badulla,Manager,2021-11-06,BR0009,Active
+CUST00990,Kavindi,Perera,2001-06-18,Male,Kandy,Manager,2024-04-10,BR0011,Inactive
+CUST00991,Saman,De Silva,1963-05-22,Male,Kurunegala,Engineer,2021-07-13,BR0011,Inactive
+CUST00992,Dinushi,Bandara,1966-02-13,Male,Trincomalee,Doctor,2024-11-27,BR0005,Inactive
+CUST00993,Kasun,Fernando,1975-04-21,Male,Matara,Engineer,2021-12-26,BR0010,Active
+CUST00994,Kavindi,De Silva,1975-02-10,Male,Colombo,Business Owner,2021-09-20,BR0015,Inactive
+CUST00995,Kamal,Jayasinghe,1963-02-02,Male,Ratnapura,Teacher,2025-11-11,BR0004,Inactive
+CUST00996,Chathura,Wickramasinghe,1999-10-31,Male,Matara,Teacher,2020-07-18,BR0013,Active
+CUST00997,Saman,Gunawardena,1981-05-26,Male,Kandy,Teacher,2024-09-23,BR0001,Active
+CUST00998,Nuwan,Jayasinghe,1965-09-01,Male,Kandy,Accountant,2021-11-15,BR0002,Inactive
+CUST00999,Kavindi,Silva,1989-05-07,Female,Trincomalee,Doctor,2022-04-28,BR0018,Inactive
+CUST01000,Tharushi,Silva,1980-11-06,Male,Kandy,Software Developer,2023-08-17,BR0006,Active

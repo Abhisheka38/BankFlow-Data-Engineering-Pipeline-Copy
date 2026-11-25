@@ -1,0 +1,21 @@
+branch_id,branch_name,city,district,province,opened_date
+BR0001,Branch 01,Colombo,Colombo,Western,2008-09-06
+BR0002,Branch 02,Kandy,Kandy,Central,1984-12-29
+BR0003,Branch 03,Galle,Galle,Southern,1981-02-13
+BR0004,Branch 04,Jaffna,Jaffna,Northern,2013-04-06
+BR0005,Branch 05,Kurunegala,Kurunegala,North Western,1992-05-03
+BR0006,Branch 06,Anuradhapura,Anuradhapura,North Central,1990-12-26
+BR0007,Branch 07,Badulla,Badulla,Uva,1990-01-05
+BR0008,Branch 08,Ratnapura,Ratnapura,Sabaragamuwa,1986-04-05
+BR0009,Branch 09,Trincomalee,Trincomalee,Eastern,2013-01-13
+BR0010,Branch 10,Matara,Matara,Southern,1984-08-06
+BR0011,Branch 11,Colombo,Colombo,Western,2010-05-10
+BR0012,Branch 12,Kandy,Kandy,Central,2013-03-23
+BR0013,Branch 13,Galle,Galle,Southern,2020-01-08
+BR0014,Branch 14,Jaffna,Jaffna,Northern,2004-06-18
+BR0015,Branch 15,Kurunegala,Kurunegala,North Western,1983-11-25
+BR0016,Branch 16,Anuradhapura,Anuradhapura,North Central,2006-06-27
+BR0017,Branch 17,Badulla,Badulla,Uva,1998-12-04
+BR0018,Branch 18,Ratnapura,Ratnapura,Sabaragamuwa,1981-06-04
+BR0019,Branch 19,Trincomalee,Trincomalee,Eastern,1981-05-03
+BR0020,Branch 20,Matara,Matara,Southern,1984-03-15
