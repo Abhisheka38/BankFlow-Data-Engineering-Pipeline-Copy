@@ -52,3 +52,23 @@ All banking data used in this project is synthetically generated. The project do
 **Architecture:**
 
 Source Data → Bronze Ingestion → Data Profiling → Silver Transformations → Silver Validation → Gold Analytics (Planned)
+
+### Day 04 – PostgreSQL Database Integration
+
+- Configured a local PostgreSQL database for banking data storage.
+- Designed a relational database schema containing six banking entities.
+- Implemented primary keys, foreign keys and database constraints.
+- Created indexes for commonly queried columns.
+- Implemented secure database configuration using environment variables.
+- Developed Python database connectivity using SQLAlchemy and Psycopg.
+- Implemented automated Silver Parquet-to-PostgreSQL loading.
+- Added transactional full-refresh processing and rollback handling.
+- Implemented exact decimal storage for financial amounts.
+- Added database-level data lineage and load history tracking.
+- Implemented automated database validation and integration testing.
+
+**Technologies:** PostgreSQL, SQL, Python, Pandas, SQLAlchemy, Psycopg, PyArrow, DBeaver and Pytest.
+
+**Pipeline Architecture:**
+
+Source CSV → Bronze Ingestion → Silver Transformation → PostgreSQL Loading → Database Validation → Gold Analytics (Planned)
