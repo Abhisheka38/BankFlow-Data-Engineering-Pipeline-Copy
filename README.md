@@ -115,3 +115,68 @@ python -m pytest tests/test_analytics.py -v
 ```
 
 Detailed implementation documentation: [Day 5 – Advanced SQL](docs/day05_advanced_sql.md)
+
+### Analytics Implementation Screenshots
+
+#### PostgreSQL Database Structure
+![Database Structure](docs/evidence/day05_database_structure.png)
+
+#### Customer 360 Analysis
+![Customer 360](docs/evidence/day05_customer_360.png)
+
+#### Branch Performance Analysis
+![Branch Performance](docs/evidence/day05_branch_performance.png)
+
+#### SQL Query Optimization
+![Execution Plan](docs/evidence/day05_execution_plan.png)
+
+## Day 6 – Data Warehousing & Dimensional Modelling
+
+Implemented a dimensional banking data warehouse using PostgreSQL, SQL, Python and SQLAlchemy.
+
+### Warehouse Features
+
+- Star schema and fact constellation architecture
+- Fact and dimension tables
+- Surrogate and natural keys
+- Automatically generated date dimension
+- Conformed dimensions
+- SCD Type 1 dimension management
+- SQL-based ELT transformations
+- Transactional fact loading
+- Financial reconciliation
+- Data lineage and warehouse load history
+- Automated warehouse validation and testing
+
+### Warehouse Components
+
+| Component | Count |
+|---|---:|
+| Dimension tables | 5 |
+| Fact tables | 4 |
+| Load history tables | 1 |
+| Warehouse validation rules | 20 |
+| Warehouse integration tests | 27 |
+
+### Running the Warehouse Pipeline
+
+```bash
+python -m src.warehouse.init_warehouse
+python -m src.warehouse.load_warehouse
+python -m src.validation.validate_warehouse
+python -m pytest tests/test_warehouse.py -v
+```
+
+### Warehouse Architecture
+
+Bronze CSV → Silver Parquet → PostgreSQL Silver → Dimensional Warehouse → Gold Layer
+
+### Data Warehouse Evidence
+
+![Warehouse Structure](docs/evidence/day06_warehouse_structure.png)
+
+![Star Schema](docs/evidence/day06_star_schema.png)
+
+![Warehouse Validation](docs/evidence/day06_validation.png)
+
+Detailed documentation: [Day 6 – Data Warehousing](docs/day06_data_warehouse.md)
