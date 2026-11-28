@@ -1,0 +1,147 @@
+                                                              QUERY PLAN                                                              
+--------------------------------------------------------------------------------------------------------------------------------------
+ Bitmap Heap Scan on transactions  (cost=4.35..31.44 rows=8 width=37) (actual time=0.112..0.135 rows=4 loops=1)
+   Recheck Cond: ((account_id)::text = 'ACC000001'::text)
+   Heap Blocks: exact=4
+   Buffers: shared hit=6
+   ->  Bitmap Index Scan on idx_transactions_account_date  (cost=0.00..4.34 rows=8 width=0) (actual time=0.091..0.091 rows=4 loops=1)
+         Index Cond: ((account_id)::text = 'ACC000001'::text)
+         Buffers: shared hit=2
+ Planning:
+   Buffers: shared hit=166 read=2
+ Planning Time: 2.502 ms
+ Execution Time: 0.236 ms
+(11 rows)
+
+                                                                     QUERY PLAN                                                                     
+----------------------------------------------------------------------------------------------------------------------------------------------------
+ Index Scan using idx_transactions_success_branch_date on transactions  (cost=0.28..8.30 rows=1 width=19) (actual time=0.043..0.043 rows=0 loops=1)
+   Index Cond: (((branch_id)::text = 'BR0001'::text) AND (transaction_date >= '2024-01-01'::date) AND (transaction_date < '2025-01-01'::date))
+   Buffers: shared read=2
+ Planning:
+   Buffers: shared hit=26
+ Planning Time: 0.337 ms
+ Execution Time: 0.051 ms
+(7 rows)
+
+                                                                                 QUERY PLAN                                                                                 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Hash Left Join  (cost=434.68..436.13 rows=20 width=218) (actual time=6.987..7.049 rows=20 loops=1)
+   Hash Cond: ((b.branch_id)::text = (t.branch_id)::text)
+   Buffers: shared hit=227 read=12
+   ->  Hash Left Join  (cost=95.30..96.69 rows=20 width=146) (actual time=2.284..2.329 rows=20 loops=1)
+         Hash Cond: ((b.branch_id)::text = (l.branch_id)::text)
+         Buffers: shared hit=41
+         ->  Hash Left Join  (cost=76.35..77.68 rows=20 width=98) (actual time=1.797..1.829 rows=20 loops=1)
+               Hash Cond: ((b.branch_id)::text = (a.branch_id)::text)
+               Buffers: shared hit=34
+               ->  Hash Left Join  (cost=32.65..33.91 rows=20 width=50) (actual time=0.745..0.765 rows=20 loops=1)
+                     Hash Cond: ((b.branch_id)::text = (c.branch_id)::text)
+                     Buffers: shared hit=18
+                     ->  Seq Scan on branches b  (cost=0.00..1.20 rows=20 width=42) (actual time=0.015..0.018 rows=20 loops=1)
+                           Buffers: shared hit=1
+                     ->  Hash  (cost=32.40..32.40 rows=20 width=15) (actual time=0.717..0.718 rows=20 loops=1)
+                           Buckets: 1024  Batches: 1  Memory Usage: 9kB
+                           Buffers: shared hit=17
+                           ->  Subquery Scan on c  (cost=32.00..32.40 rows=20 width=15) (actual time=0.695..0.706 rows=20 loops=1)
+                                 Buffers: shared hit=17
+                                 ->  HashAggregate  (cost=32.00..32.20 rows=20 width=15) (actual time=0.694..0.700 rows=20 loops=1)
+                                       Group Key: customers.home_branch_id
+                                       Batches: 1  Memory Usage: 24kB
+                                       Buffers: shared hit=17
+                                       ->  Seq Scan on customers  (cost=0.00..27.00 rows=1000 width=7) (actual time=0.006..0.183 rows=1000 loops=1)
+                                             Buffers: shared hit=17
+               ->  Hash  (cost=43.45..43.45 rows=20 width=55) (actual time=1.043..1.043 rows=20 loops=1)
+                     Buckets: 1024  Batches: 1  Memory Usage: 10kB
+                     Buffers: shared hit=16
+                     ->  Subquery Scan on a  (cost=43.00..43.45 rows=20 width=55) (actual time=1.015..1.032 rows=20 loops=1)
+                           Buffers: shared hit=16
+                           ->  HashAggregate  (cost=43.00..43.25 rows=20 width=55) (actual time=1.015..1.026 rows=20 loops=1)
+                                 Group Key: accounts.branch_id
+                                 Batches: 1  Memory Usage: 32kB
+                                 Buffers: shared hit=16
+                                 ->  Seq Scan on accounts  (cost=0.00..28.00 rows=1200 width=22) (actual time=0.007..0.200 rows=1200 loops=1)
+                                       Buffers: shared hit=16
+         ->  Hash  (cost=18.70..18.70 rows=20 width=55) (actual time=0.476..0.477 rows=20 loops=1)
+               Buckets: 1024  Batches: 1  Memory Usage: 10kB
+               Buffers: shared hit=7
+               ->  Subquery Scan on l  (cost=18.25..18.70 rows=20 width=55) (actual time=0.449..0.465 rows=20 loops=1)
+                     Buffers: shared hit=7
+                     ->  HashAggregate  (cost=18.25..18.50 rows=20 width=55) (actual time=0.449..0.460 rows=20 loops=1)
+                           Group Key: loans.branch_id
+                           Batches: 1  Memory Usage: 32kB
+                           Buffers: shared hit=7
+                           ->  Seq Scan on loans  (cost=0.00..12.00 rows=500 width=23) (actual time=0.007..0.103 rows=500 loops=1)
+                                 Buffers: shared hit=7
+   ->  Hash  (cost=339.13..339.13 rows=20 width=79) (actual time=4.689..4.689 rows=20 loops=1)
+         Buckets: 1024  Batches: 1  Memory Usage: 10kB
+         Buffers: shared hit=186 read=12
+         ->  Subquery Scan on t  (cost=338.63..339.13 rows=20 width=79) (actual time=4.655..4.675 rows=20 loops=1)
+               Buffers: shared hit=186 read=12
+               ->  HashAggregate  (cost=338.63..338.93 rows=20 width=79) (actual time=4.654..4.669 rows=20 loops=1)
+                     Group Key: transactions.branch_id
+                     Batches: 1  Memory Usage: 32kB
+                     Buffers: shared hit=186 read=12
+                     ->  Bitmap Heap Scan on transactions  (cost=78.13..304.63 rows=3400 width=20) (actual time=0.504..1.917 rows=3400 loops=1)
+                           Recheck Cond: (transaction_status = 'Successful'::text)
+                           Heap Blocks: exact=184
+                           Buffers: shared hit=186 read=12
+                           ->  Bitmap Index Scan on idx_transactions_success_branch_date  (cost=0.00..77.28 rows=3400 width=0) (actual time=0.459..0.459 rows=3400 loops=1)
+                                 Buffers: shared hit=2 read=12
+ Planning:
+   Buffers: shared hit=361 read=1
+ Planning Time: 2.588 ms
+ Execution Time: 7.249 ms
+(66 rows)
+
+                                                    QUERY PLAN                                                     
+-------------------------------------------------------------------------------------------------------------------
+ Seq Scan on mv_branch_performance  (cost=0.00..1.20 rows=20 width=126) (actual time=0.007..0.010 rows=20 loops=1)
+   Buffers: shared hit=1
+ Planning:
+   Buffers: shared hit=64 dirtied=1
+ Planning Time: 0.531 ms
+ Execution Time: 0.021 ms
+(6 rows)
+
+                                                                             QUERY PLAN                                                                              
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Nested Loop Left Join  (cost=5.41..63.85 rows=1 width=266) (actual time=0.243..0.245 rows=1 loops=1)
+   Buffers: shared hit=15 read=2
+   ->  Nested Loop Left Join  (cost=0.82..25.00 rows=1 width=194) (actual time=0.131..0.133 rows=1 loops=1)
+         Buffers: shared hit=8
+         ->  Nested Loop Left Join  (cost=0.55..16.67 rows=1 width=146) (actual time=0.103..0.105 rows=1 loops=1)
+               Buffers: shared hit=6
+               ->  Index Scan using customers_pkey on customers c  (cost=0.28..8.29 rows=1 width=66) (actual time=0.038..0.039 rows=1 loops=1)
+                     Index Cond: ((customer_id)::text = 'CUST00001'::text)
+                     Buffers: shared hit=3
+               ->  GroupAggregate  (cost=0.28..8.36 rows=1 width=90) (actual time=0.061..0.062 rows=1 loops=1)
+                     Buffers: shared hit=3
+                     ->  Index Scan using idx_accounts_customer on accounts  (cost=0.28..8.31 rows=2 width=25) (actual time=0.049..0.050 rows=2 loops=1)
+                           Index Cond: ((customer_id)::text = 'CUST00001'::text)
+                           Buffers: shared hit=3
+         ->  GroupAggregate  (cost=0.27..8.31 rows=1 width=58) (actual time=0.025..0.025 rows=0 loops=1)
+               Buffers: shared hit=2
+               ->  Index Scan using idx_loans_customer on loans  (cost=0.27..8.29 rows=1 width=26) (actual time=0.025..0.025 rows=0 loops=1)
+                     Index Cond: ((customer_id)::text = 'CUST00001'::text)
+                     Buffers: shared hit=2
+   ->  GroupAggregate  (cost=4.58..38.83 rows=1 width=82) (actual time=0.107..0.107 rows=1 loops=1)
+         Buffers: shared hit=7 read=2
+         ->  Nested Loop  (cost=4.58..38.77 rows=6 width=23) (actual time=0.099..0.101 rows=2 loops=1)
+               Buffers: shared hit=7 read=2
+               ->  Index Scan using idx_accounts_customer on accounts a  (cost=0.28..8.31 rows=2 width=20) (actual time=0.018..0.019 rows=2 loops=1)
+                     Index Cond: ((customer_id)::text = 'CUST00001'::text)
+                     Buffers: shared hit=3
+               ->  Bitmap Heap Scan on transactions t  (cost=4.30..15.20 rows=3 width=23) (actual time=0.038..0.039 rows=1 loops=2)
+                     Recheck Cond: (((a.account_id)::text = (account_id)::text) AND (transaction_status = 'Successful'::text))
+                     Heap Blocks: exact=2
+                     Buffers: shared hit=4 read=2
+                     ->  Bitmap Index Scan on idx_transactions_success_account_timestamp  (cost=0.00..4.30 rows=3 width=0) (actual time=0.035..0.035 rows=1 loops=2)
+                           Index Cond: ((account_id)::text = (a.account_id)::text)
+                           Buffers: shared hit=2 read=2
+ Planning:
+   Buffers: shared hit=95
+ Planning Time: 1.828 ms
+ Execution Time: 0.340 ms
+(37 rows)
+

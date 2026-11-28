@@ -72,3 +72,46 @@ Source Data → Bronze Ingestion → Data Profiling → Silver Transformations �
 **Pipeline Architecture:**
 
 Source CSV → Bronze Ingestion → Silver Transformation → PostgreSQL Loading → Database Validation → Gold Analytics (Planned)
+
+## Day 5 – Advanced SQL & Analytical Processing
+
+Implemented a PostgreSQL analytical processing layer on top of validated Silver banking datasets.
+
+### Features
+
+- Advanced SQL joins, CTEs, and correlated subqueries
+- Window functions and time-series analysis
+- Customer 360 analytical dataset
+- Branch performance analysis
+- Daily transaction aggregation
+- Loan and account portfolio analysis
+- Reusable analytical views
+- Materialized views and stored procedures
+- Automated materialized view refresh
+- Partial and composite indexes
+- SQL query execution plan analysis
+- Analytical data quality validation
+- Parameterized integration testing
+
+### Analytics Architecture
+
+Silver Parquet → PostgreSQL Silver Schema → Analytical Views → Materialized Views → Future Gold Layer
+
+### Analytical Database Objects
+
+- 5 analytical views
+- 2 materialized views
+- 1 refresh stored procedure
+- 15 analytical validation rules
+- 18 analytics integration test cases
+
+### Running the Analytics Layer
+
+```bash
+python -m src.database.init_analytics
+python -m src.database.refresh_analytics
+python -m src.validation.validate_analytics
+python -m pytest tests/test_analytics.py -v
+```
+
+Detailed implementation documentation: [Day 5 – Advanced SQL](docs/day05_advanced_sql.md)
